@@ -1,0 +1,6 @@
+{
+  "id": "lsep",
+  "display_name": "lsep -Long sleep episodes - Number of Sleep Episodes >= duration in Options: Sleep: Sleep Statistics Criteria text box",
+  "description": "",
+  "type": "numeric"
+}

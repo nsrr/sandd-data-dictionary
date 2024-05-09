@@ -1,0 +1,12 @@
+[
+  {
+    "value": "bsl",
+    "display_name": "Baseline assessment",
+    "description": ""
+  },
+  {
+    "value": "final",
+    "display_name": "Final Follow-up assessment (1.5 to 3 years later)",
+    "description": ""
+  }
+]

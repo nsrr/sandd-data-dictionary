@@ -1,0 +1,6 @@
+{
+  "id": "lwep",
+  "display_name": "lwep -Long wake episodes (wake episodes greater than or equal to 5 min [value specified in W2 program Options:Sleep:Sleep Statistics Criteria])",
+  "description": "",
+  "type": "numeric"
+}

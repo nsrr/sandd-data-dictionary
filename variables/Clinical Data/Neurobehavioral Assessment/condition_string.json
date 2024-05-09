@@ -1,0 +1,7 @@
+{
+  "id": "condition_string",
+  "display_name": "Condition_string - condition as string variable. ",
+  "description": "",
+  "type": "string",
+  "domain": "condition_string"
+}

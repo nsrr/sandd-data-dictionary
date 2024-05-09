@@ -1,0 +1,7 @@
+{
+  "id": "rey_copy_pct",
+  "display_name": "Rey Copy percentile Score (From Rey Test booklet form completed by Rey scorer)",
+  "description": "",
+  "type": "choices",
+  "domain": "rey"
+}

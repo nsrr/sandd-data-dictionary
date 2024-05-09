@@ -1,0 +1,37 @@
+[
+  {
+    "value": "1",
+    "display_name": "Marijuana",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Cocaine",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Stimulants",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Opiates",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Solvents",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Hallucinogens",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Other",
+    "description": ""
+  }
+]

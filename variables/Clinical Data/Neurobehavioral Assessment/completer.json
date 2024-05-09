@@ -1,0 +1,7 @@
+{
+  "id": "completer",
+  "display_name": "completer *Completed both baseline and follow up Rey-O.",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1_no0"
+}

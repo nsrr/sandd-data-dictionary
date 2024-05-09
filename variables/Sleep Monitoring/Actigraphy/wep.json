@@ -1,0 +1,6 @@
+{
+  "id": "wep",
+  "display_name": "wep -Wake Episodes - Number of wake episodes (blocks of contiguous wake epochs)",
+  "description": "",
+  "type": "numeric"
+}

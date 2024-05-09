@@ -1,0 +1,6 @@
+{
+  "id": "mwep",
+  "display_name": "mwep -Mean Wake Episode - Mean duration of wake episodes (minutes)",
+  "description": "",
+  "type": "numeric"
+}

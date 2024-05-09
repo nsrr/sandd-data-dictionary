@@ -1,0 +1,7 @@
+{
+  "id": "ethnicity_hispanicorlatino",
+  "display_name": "Ethnicity_HispanicOrLatino -ppts ethnicity per their responses to the 1 question race item; Hispanic or Latino was included with race options in this item.",
+  "description": "",
+  "type": "choices",
+  "domain": "ethnicity"
+}

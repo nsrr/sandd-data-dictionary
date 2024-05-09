@@ -1,0 +1,6 @@
+{
+  "id": "lgsep",
+  "display_name": "lgsep -Longest sleep episode -Duration of longest sleep episode (minutes)",
+  "description": "",
+  "type": "numeric"
+}

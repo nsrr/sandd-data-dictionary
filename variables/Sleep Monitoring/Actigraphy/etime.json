@@ -1,0 +1,7 @@
+{
+  "id": "etime",
+  "display_name": "etime -End Time - End of sleep interval - time",
+  "description": "",
+  "type": "time",
+  "units": "hh:mm"
+}

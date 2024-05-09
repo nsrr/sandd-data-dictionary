@@ -1,0 +1,6 @@
+{
+  "id": "comments",
+  "display_name": "Study team comments regarding the data or scoring",
+  "description": "",
+  "type": "string"
+}

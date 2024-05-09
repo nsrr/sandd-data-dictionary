@@ -1,0 +1,6 @@
+{
+  "id": "actx",
+  "display_name": "actx -Activity index (percent of epochs with an activity score greater than 0)",
+  "description": "",
+  "type": "numeric"
+}

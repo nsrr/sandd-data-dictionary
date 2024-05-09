@@ -1,0 +1,6 @@
+{
+  "id": "yearsdiff_bslfinal",
+  "display_name": "YearsDiff_bslfinal -difference in time between baseline admin and final admin; in years with decimal",
+  "description": "",
+  "type": "numeric"
+}

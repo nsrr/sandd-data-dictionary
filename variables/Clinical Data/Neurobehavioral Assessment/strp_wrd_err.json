@@ -1,0 +1,6 @@
+{
+  "id": "strp_wrd_err",
+  "display_name": "STRP_WRD_ERR *Total errors on the Stroop word reading task (TEST PAGE 1 - Word Reading).",
+  "description": "",
+  "type": "numeric"
+}

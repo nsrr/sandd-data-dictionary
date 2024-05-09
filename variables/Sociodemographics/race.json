@@ -1,0 +1,7 @@
+{
+  "id": "race",
+  "display_name": "Race -ppts race as reported on SMEFH per categories employed in 2002.",
+  "description": "",
+  "type": "choices",
+  "domain": "race"
+}

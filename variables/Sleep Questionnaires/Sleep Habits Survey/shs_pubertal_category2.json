@@ -1,0 +1,6 @@
+{
+  "id": "shs_pubertal_category2",
+  "display_name": "SHS_Pubertal_Category$ -pubertal category using items from the pubertal development scale [SHS_Pubertal_Category_Sum$].  Range1-5. for girls menarche data must be present to get score",
+  "description": "",
+  "type": "integer"
+}

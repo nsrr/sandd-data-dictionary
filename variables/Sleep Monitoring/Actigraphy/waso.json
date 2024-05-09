@@ -1,0 +1,6 @@
+{
+  "id": "waso",
+  "display_name": "waso -Wake After Sleep Onset - Wake min during O-O interval",
+  "description": "",
+  "type": "numeric"
+}

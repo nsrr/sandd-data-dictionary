@@ -1,0 +1,12 @@
+[
+  {
+    "value": "0",
+    "display_name": "responded no to this Rutter item",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "responded yes to this item",
+    "description": ""
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "id": "alert",
+  "display_name": "How alert do you feel? 0 [very little] - 100 [very much]",
+  "description": "",
+  "type": "numeric"
+}

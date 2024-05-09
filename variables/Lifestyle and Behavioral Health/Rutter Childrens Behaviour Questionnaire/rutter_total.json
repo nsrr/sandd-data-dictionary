@@ -1,0 +1,6 @@
+{
+  "id": "rutter_total",
+  "display_name": "Rutter_TOTAL - sum of all responses to rutter items 1 through 24.",
+  "description": "",
+  "type": "integer"
+}

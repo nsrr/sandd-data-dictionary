@@ -1,0 +1,7 @@
+{
+  "id": "study_cond",
+  "display_name": "Study condition.",
+  "description": "",
+  "type": "choices",
+  "domain": "study_condition"
+}

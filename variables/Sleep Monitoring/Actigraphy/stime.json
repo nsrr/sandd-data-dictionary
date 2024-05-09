@@ -1,0 +1,7 @@
+{
+  "id": "stime",
+  "display_name": "stime -Start Time -Start of sleep interval - time",
+  "description": "",
+  "type": "time",
+  "units": "hh:mm"
+}

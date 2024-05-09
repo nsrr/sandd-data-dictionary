@@ -1,0 +1,6 @@
+{
+  "id": "amean",
+  "display_name": "amean -Activity Mean -Average activity score (counts/epoch)",
+  "description": "",
+  "type": "numeric"
+}

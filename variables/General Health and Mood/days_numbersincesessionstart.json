@@ -1,0 +1,6 @@
+{
+  "id": "days_numbersincesessionstart",
+  "display_name": "days_numbersincesessionstart -variable to identify span of days from start of this inlab session to the last day of the same session",
+  "description": "",
+  "type": "numeric"
+}

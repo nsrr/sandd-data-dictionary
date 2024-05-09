@@ -1,0 +1,6 @@
+{
+  "id": "mood_year_study",
+  "display_name": "Year this row of data was collected",
+  "description": "",
+  "type": "numeric"
+}

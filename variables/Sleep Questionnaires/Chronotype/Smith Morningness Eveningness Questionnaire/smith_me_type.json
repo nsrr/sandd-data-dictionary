@@ -1,0 +1,7 @@
+{
+  "id": "smith_me_type",
+  "display_name": "SMITH_ME_Type -ppts chronotype based on their SMITH total$ score.",
+  "description": "",
+  "type": "choices",
+  "domain": "type"
+}

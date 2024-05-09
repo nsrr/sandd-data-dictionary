@@ -1,0 +1,6 @@
+{
+  "id": "days_numbersincesessiononestart",
+  "display_name": "days_numbersincesessiononestart -variable to identify number of days this row of actigraphy data is from the very first day of actigraphy at baseline [date of this row of actigraphy minus date of very first day of actigraphy at baseline]",
+  "description": "",
+  "type": "numeric"
+}

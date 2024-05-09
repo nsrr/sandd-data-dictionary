@@ -1,0 +1,6 @@
+{
+  "id": "tense",
+  "display_name": "How tense do you feel? 0 [very little] - 100 [very much]",
+  "description": "",
+  "type": "numeric"
+}

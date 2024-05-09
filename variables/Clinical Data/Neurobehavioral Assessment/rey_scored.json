@@ -1,0 +1,7 @@
+{
+  "id": "rey_scored",
+  "display_name": "Rey_scored *Rey-O scored?.",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1_no0"
+}

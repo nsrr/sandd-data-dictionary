@@ -1,0 +1,7 @@
+{
+  "id": "schtim",
+  "display_name": "Scheduled start time for ss admin per study protocols.",
+  "description": "",
+  "type": "time",
+  "units": "hh:mm"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "smith_tot2",
+  "display_name": "SMITH_TOT$ -Smith total score. items 1,2,6,7,8,9,10,12,13 reverse coded; 9 out of 13 items required. range 13 to 55",
+  "description": "",
+  "type": "numeric"
+}

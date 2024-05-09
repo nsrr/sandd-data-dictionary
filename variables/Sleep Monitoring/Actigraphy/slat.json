@@ -1,0 +1,6 @@
+{
+  "id": "slat",
+  "display_name": "slat -sleep onset latency",
+  "description": "",
+  "type": "numeric"
+}

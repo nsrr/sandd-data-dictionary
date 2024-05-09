@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "initial/baseline timepoint",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "6-month follow up",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "12 mo[1yr] follow up",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "18mo[1.5yr]",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "24mo[2yr]",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "30mo[2.5y]",
+    "description": ""
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Morning type",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Intermediate type",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Evening type",
+    "description": ""
+  }
+]

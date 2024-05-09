@@ -1,0 +1,6 @@
+{
+  "id": "neurotest_yn",
+  "display_name": "NeuroTest_yn -variable to identify presence or absence of neuropsych testing at this time point for this participant",
+  "description": "",
+  "type": "numeric"
+}

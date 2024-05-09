@@ -1,0 +1,6 @@
+{
+  "id": "amed",
+  "display_name": "amed -Activity Median - Median activity score (counts/epoch)",
+  "description": "",
+  "type": "numeric"
+}

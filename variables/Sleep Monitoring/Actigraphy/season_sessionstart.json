@@ -1,0 +1,7 @@
+{
+  "id": "season_sessionstart",
+  "display_name": "Season_SessionStart - season/time of year on the first day of this session of actigraphy; season may change during the session depending on the dates defining that season in that year",
+  "description": "",
+  "type": "choices",
+  "domain": "season"
+}

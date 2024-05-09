@@ -1,0 +1,6 @@
+{
+  "id": "height_physexam",
+  "display_name": "height_physexam - ppts height as recorded on physical exam form during tanner assessment",
+  "description": "",
+  "type": "numeric"
+}

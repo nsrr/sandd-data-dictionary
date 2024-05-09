@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "neither parent",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "one or both parent",
+    "description": ""
+  },
+  {
+    "value": "999",
+    "display_name": "data missing",
+    "description": ""
+  }
+]

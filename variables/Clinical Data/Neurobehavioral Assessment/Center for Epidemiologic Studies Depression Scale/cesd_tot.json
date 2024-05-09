@@ -1,0 +1,6 @@
+{
+  "id": "cesd_tot",
+  "display_name": "CES-D Total Score - no missing items allowed. Total score calculated using syntax that reverse codes items 4, 8, 12, and 16. Possible range: 0-60",
+  "description": "",
+  "type": "integer"
+}

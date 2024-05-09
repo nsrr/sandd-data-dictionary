@@ -1,0 +1,7 @@
+{
+  "id": "session",
+  "display_name": "Session -study session; refers to timepoint of data collection.",
+  "description": "",
+  "type": "choices",
+  "domain": "session"
+}

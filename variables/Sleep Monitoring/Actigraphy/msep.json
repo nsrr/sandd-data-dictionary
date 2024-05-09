@@ -1,0 +1,6 @@
+{
+  "id": "msep",
+  "display_name": "msep -Mean Sleep Episode - Mean duration of sleep episodes (minutes)",
+  "description": "",
+  "type": "numeric"
+}

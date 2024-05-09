@@ -1,0 +1,6 @@
+{
+  "id": "bwr",
+  "display_name": "bwr -Brief wake ratio: Brief Wakes (duration of 1 min or less) /Ê Number of Awakenings (Wake Episodes)",
+  "description": "",
+  "type": "numeric"
+}

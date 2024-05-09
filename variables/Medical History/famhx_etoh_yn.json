@@ -1,0 +1,7 @@
+{
+  "id": "famhx_etoh_yn",
+  "display_name": "FamHx_ETOH_yn -variable to identify presence or absence of any parent with a history of an etoh disorder [abuse or dependence].",
+  "description": "",
+  "type": "choices",
+  "domain": "parent"
+}

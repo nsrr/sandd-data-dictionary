@@ -1,0 +1,27 @@
+[
+  {
+    "value": "0",
+    "display_name": "no aud",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "etoh abuse dx",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "etoh dependence dx",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "both abuse and dep dx",
+    "description": ""
+  },
+  {
+    "value": "999",
+    "display_name": "data missing",
+    "description": ""
+  }
+]
