@@ -1,6 +1,7 @@
 ver="0.1.0"
 
 library(dplyr)
+library(readxl)
 library(foreign)
 
 setwd("/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/original")
@@ -64,7 +65,7 @@ for (i in 2:length(data_frames)) {
 
 #merged_df2 <- merged_data[!duplicated(merged_data), ]
 # check which variables in merged_data is not in sandd-data-dictionary
-df <- read_excel("~/Desktop/sandd/sandd-data-dictionary.xlsx")
+df <- read_excel("/Users/isabellaliu/Desktop/BWH/sandd/sandd-data-dictionary.xlsx")
 missing_cols <- setdiff(names(merged_data), df$id)
 exclude_cols <- c("bdi_score2", "cesd_TOT2", "SHS_PDS_score2", "SHS_Pubertal_Category2", "SMITH_TOT2")
 missing_cols <- setdiff(missing_cols, exclude_cols)
@@ -88,7 +89,38 @@ for (variable in variables_to_convert) {
   mood_sleepy_data[[variable]] <- format(as.POSIXct(paste(floor(mood_sleepy_data[[variable]] / 3600), floor((mood_sleepy_data[[variable]] %% 3600) / 60), mood_sleepy_data[[variable]] %% 60, sep=":"), format="%H:%M"), "%H:%M")
 }
 
+names(merged_data2) <- tolower(names(merged_data2))
+names(actigraphy_data) <- tolower(names(actigraphy_data))
+names(mood_sleepy_data) <- tolower(names(mood_sleepy_data))
+
 write.csv(merged_data2, file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/sandd-dataset-0.1.0.pre.csv", row.names = FALSE, na='')
 write.csv(mood_sleepy_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/sandd-mood-0.1.0.pre.csv", row.names = FALSE, na='')
 write.csv(actigraphy_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/sandd-ScoredActigraphy-0.1.0.pre.csv", row.names = FALSE, na='')
 
+
+#harmonized dataset
+# age, race, gender, ethnicity_hispanicorlatino
+harmonized_data<-merged_data2[,c("id", "session","agedec_stdate","race","female_yesno","ethnicity_hispanicorlatino")]%>%
+  dplyr::mutate(nsrr_id=id,
+                nsrr_age=agedec_stdate,
+                nsrr_race=dplyr::case_when(
+                  race==1 ~ "white",
+                  race==2 ~ "black or african american",
+                  race==3 ~ "hispanic",
+                  race==4 ~ "asian",
+                  race==5 ~ "american indian or alaska native",
+                  race==6 ~ "multiple",
+                  race==7 ~ "other",
+                  TRUE ~ "not reported"
+                ),
+                nsrr_sex=dplyr::case_when(
+                  female_yesno==0 ~ "male",
+                  female_yesno==1 ~ "female",
+                  TRUE ~ "not reported"
+                ),
+                nsrr_ethnicity=dplyr::case_when(
+                  ethnicity_hispanicorlatino==1 ~ "hispanic or latino",
+                  ethnicity_hispanicorlatino==0 ~ "not hispanic or latino",
+                  TRUE ~ "not reported"
+                ))%>%select(nsrr_id, session, nsrr_age, nsrr_race, nsrr_sex, nsrr_ethnicity)
+write.csv(harmonized_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/sandd-harmonized-dataset-0.1.0.csv", row.names = FALSE, na='')

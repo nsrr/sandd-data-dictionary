@@ -1,10 +1,10 @@
-slug: sandd-data-dictionary
-visit: Session
+slug: sandd
+visit: session
 charts:
-- chart: Female_yesno
-  title: Sex
-- chart: Race
-  title: Race
+- chart: female_yesno
+  title: sex
+- chart: race
+  title: race
   
 webservers:
   - name: production

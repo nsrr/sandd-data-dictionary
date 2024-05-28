@@ -1,74 +1,74 @@
-﻿folder,domain_id,value,display_name,description,
-,session,1,initial/baseline timepoint,,
-,session,2,6-month follow up,,
-,session,3,12 mo[1yr] follow up,,
-,session,4,18mo[1.5yr],,
-,session,5,24mo[2yr],,
-,session,6,30mo[2.5y],,
-,season,1,Winter,,
-,season,2,Spring,,
-,season,3,Fall,,
-,season,4,Summer,,
-,sex,0,"no, is male",,
-,sex,1,"yes, is female",,
-,ethnicity,0,"No, NOT Hispanic or Latino",,
-,ethnicity,1,yes is Hispanic or Latino - endorsed response 3 to question re race,,
-,race,1,White,,
-,race,2,Black/African American,,
-,race,3,Hispanic/Latino,,
-,race,4,Asian,,
-,race,5,Native American/American Indian,,
-,race,6,Multiracial,,
-,race,7,Other,,
-,type,1,Morning type,,
-,type,2,Intermediate type,,
-,type,3,Evening type,,
-,rut,0,responded no to this Rutter item,,
-,rut,1,responded yes to this item,,
-,self_entrained,1,self-selected,,
-,self_entrained,2,entrained,,
-,parent,0,neither parent,,
-,parent,1,one or both parent,,
-,parent,999,data missing,,
-,parent_status,0,No parental history of etoh diagnosis,,
-,parent_status,1,Mother history of etoh abuse or dependence; father no etoh dx,,
-,parent_status,2,Mother no etoh dx; father history of abuse or dependence,,
-,parent_status,3,Mother and father history of etoh abuse or dependence,,
-,parent_status,4,Data for mother missing; father history of abuse or dependence,,
-,parent_status,5,Mother history of etoh abuse or dependence;  data for father missing,,
-,parent_status,999,"Data missing for both; or missing for one parent, and other parent is no hx",,
-,aud,0,no aud,,
-,aud,1,etoh abuse dx,,
-,aud,2,etoh dependence dx,,
-,aud,3,both abuse and dep dx,,
-,aud,999,data missing,,
-,drug,1,Marijuana,,
-,drug,2,Cocaine,,
-,drug,3,Stimulants,,
-,drug,4,Opiates,,
-,drug,5,Solvents,,
-,drug,6,Hallucinogens,,
-,drug,7,Other,,
-,yes1_no0,0,"no, never",,
-,yes1_no0,1,yes,,
-,cesd,0,rarely or none of the time (less than 1 day),,
-,cesd,1,some or a little of the time (1 to 2 days),,
-,cesd,2,occasionally or a moderate amount of the time (3 to 4 days),,
-,cesd,3,most or all of the time (5 to 7 days),,
-,cesdrr,0,most or all of the time (5 to 7 days),,
-,cesdrr,1,occasionally or a moderate amount of the time (3 to 4 days),,
-,cesdrr,2,some or a little of the time (1 to 2 days),,
-,cesdrr,3,rarely or none of the time (less than 1 day),,
-,study_condition,1,saliva collection [DLMO assessment],,
-,study_condition,2,adaptation,,
-,study_condition,3,baseline,,
-,cond,1,baseline,,
-,cond,2,final,,
-,cond,3,unknown,,
-,rey,1,<=1,,
-,rey,2,2-5,,
-,rey,3,6-10,,
-,rey,4,11-16,,
-,rey,5,>16,,
-,condition_string,bsl,Baseline assessment,,
-,condition_string,final,Final Follow-up assessment (1.5 to 3 years later),,
+folder,domain_id,value,display_name,description
+"",aud,0,no aud,""
+"",aud,1,etoh abuse dx,""
+"",aud,2,etoh dependence dx,""
+"",aud,3,both abuse and dep dx,""
+"",aud,999,data missing,""
+"",cesd,0,rarely or none of the time (less than 1 day),""
+"",cesd,1,some or a little of the time (1 to 2 days),""
+"",cesd,2,occasionally or a moderate amount of the time (3 to 4 days),""
+"",cesd,3,most or all of the time (5 to 7 days),""
+"",cesdrr,0,most or all of the time (5 to 7 days),""
+"",cesdrr,1,occasionally or a moderate amount of the time (3 to 4 days),""
+"",cesdrr,2,some or a little of the time (1 to 2 days),""
+"",cesdrr,3,rarely or none of the time (less than 1 day),""
+"",cond,1,baseline,""
+"",cond,2,final,""
+"",cond,3,unknown,""
+"",condition_string,bsl,Baseline assessment,""
+"",condition_string,final,Final Follow-up assessment (1.5 to 3 years later),""
+"",drug,1,Marijuana,""
+"",drug,2,Cocaine,""
+"",drug,3,Stimulants,""
+"",drug,4,Opiates,""
+"",drug,5,Solvents,""
+"",drug,6,Hallucinogens,""
+"",drug,7,Other,""
+"",ethnicity,0,"No, NOT Hispanic or Latino",""
+"",ethnicity,1,yes is Hispanic or Latino - endorsed response 3 to question re race,""
+"",parent,0,neither parent,""
+"",parent,1,one or both parent,""
+"",parent,999,data missing,""
+"",parent_status,0,No parental history of etoh diagnosis,""
+"",parent_status,1,Mother history of etoh abuse or dependence; father no etoh dx,""
+"",parent_status,2,Mother no etoh dx; father history of abuse or dependence,""
+"",parent_status,3,Mother and father history of etoh abuse or dependence,""
+"",parent_status,4,Data for mother missing; father history of abuse or dependence,""
+"",parent_status,5,Mother history of etoh abuse or dependence;  data for father missing,""
+"",parent_status,999,"Data missing for both; or missing for one parent, and other parent is no hx",""
+"",race,1,White,""
+"",race,2,Black/African American,""
+"",race,3,Hispanic/Latino,""
+"",race,4,Asian,""
+"",race,5,Native American/American Indian,""
+"",race,6,Multiracial,""
+"",race,7,Other,""
+"",rey,1,<=1,""
+"",rey,2,2-5,""
+"",rey,3,6-10,""
+"",rey,4,11-16,""
+"",rey,5,>16,""
+"",rut,0,responded no to this Rutter item,""
+"",rut,1,responded yes to this item,""
+"",season,1,Winter,""
+"",season,2,Spring,""
+"",season,3,Fall,""
+"",season,4,Summer,""
+"",self_entrained,1,self-selected,""
+"",self_entrained,2,entrained,""
+"",session,1,initial/baseline timepoint,""
+"",session,2,6-month follow up,""
+"",session,3,12 mo[1yr] follow up,""
+"",session,4,18mo[1.5yr],""
+"",session,5,24mo[2yr],""
+"",session,6,30mo[2.5y],""
+"",sex,0,male,""
+"",sex,1,female,""
+"",study_condition,1,saliva collection [DLMO assessment],""
+"",study_condition,2,adaptation,""
+"",study_condition,3,baseline,""
+"",type,1,Morning type,""
+"",type,2,Intermediate type,""
+"",type,3,Evening type,""
+"",yes1_no0,0,"no, never",""
+"",yes1_no0,1,yes,""
