@@ -1,6 +1,7 @@
 {
   "id": "agedec_stdate",
-  "display_name": "AgeDec_stdate - ppts age as decimal - year and number of months as decimal fraction - at time of inlab start",
+  "display_name": "agedec_stdate - ppts age as decimal - year and number of months as decimal fraction - at time of inlab start",
   "description": "",
   "type": "numeric",
   "units": "years"
+}

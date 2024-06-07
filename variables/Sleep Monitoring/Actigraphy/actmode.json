@@ -1,6 +1,0 @@
-{
-  "id": "actmode",
-  "display_name": "ActMode - Activity Mode; ZCM (frequency), TAT (duration), or PIM (intensity) of movement. value is always ZCM",
-  "description": "",
-  "type": "numeric"
-}
