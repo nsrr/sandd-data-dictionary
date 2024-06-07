@@ -2,5 +2,6 @@
   "id": "days_betweensessionstartdates",
   "display_name": "days_betweensessionstartdates -variable to identify span of days from start of this sessions actigraphy days to the start of the previous sessions [startdate this session minus startdate of previous session]",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "days"
 }

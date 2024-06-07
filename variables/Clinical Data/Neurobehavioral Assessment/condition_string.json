@@ -2,6 +2,6 @@
   "id": "condition_string",
   "display_name": "Condition_string - condition as string variable. ",
   "description": "",
-  "type": "string",
+  "type": "choices",
   "domain": "condition_string"
 }

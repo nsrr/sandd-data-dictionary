@@ -2,5 +2,6 @@
   "id": "days_numbersincefirstsessionstart",
   "display_name": "days_numbersincefirstsessionstart -variable to identify number of days this row of data is from the very first day of their first inlab session; NOTE: most IDs have only session 1 data",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "days"
 }

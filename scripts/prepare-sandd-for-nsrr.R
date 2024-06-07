@@ -93,6 +93,10 @@ names(merged_data2) <- tolower(names(merged_data2))
 names(actigraphy_data) <- tolower(names(actigraphy_data))
 names(mood_sleepy_data) <- tolower(names(mood_sleepy_data))
 
+# remove variables
+merged_data2 <- subset(merged_data2, select = -c(study_name, rey_tester))
+actigraphy_data <- subset(actigraphy_data, select = -c(actmode))
+
 write.csv(merged_data2, file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/sandd-dataset-0.1.0.pre.csv", row.names = FALSE, na='')
 write.csv(mood_sleepy_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/sandd-mood-0.1.0.pre.csv", row.names = FALSE, na='')
 write.csv(actigraphy_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/sandd-ScoredActigraphy-0.1.0.pre.csv", row.names = FALSE, na='')

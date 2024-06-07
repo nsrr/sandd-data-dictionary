@@ -2,5 +2,6 @@
   "id": "weight_physexam",
   "display_name": "weight_physexam - ppts weight as recorded on physical exam form during tanner assessment",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "pounds (lb)"
 }

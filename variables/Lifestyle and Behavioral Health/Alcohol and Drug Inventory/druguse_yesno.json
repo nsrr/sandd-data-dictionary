@@ -3,5 +3,5 @@
   "display_name": "druguse_yesno -Endorse drug use y/n.",
   "description": "",
   "type": "choices",
-  "domain": "yes1_no0"
+  "domain": "drug_yes1_no0"
 }

@@ -2,5 +2,6 @@
   "id": "cesd12",
   "display_name": "cesd12 - original item from cesd data entry; items were entered on 1 to 4 scale so were recoded into new variables in 0 to 3 scale",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "cesd"
 }

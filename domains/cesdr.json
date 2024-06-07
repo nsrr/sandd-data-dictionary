@@ -1,21 +1,21 @@
 [
   {
-    "value": "1",
+    "value": "0",
     "display_name": "rarely or none of the time (less than 1 day)",
     "description": ""
   },
   {
-    "value": "2",
+    "value": "1",
     "display_name": "some or a little of the time (1 to 2 days)",
     "description": ""
   },
   {
-    "value": "3",
+    "value": "2",
     "display_name": "occasionally or a moderate amount of the time (3 to 4 days)",
     "description": ""
   },
   {
-    "value": "4",
+    "value": "3",
     "display_name": "most or all of the time (5 to 7 days)",
     "description": ""
   }
