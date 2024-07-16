@@ -1,0 +1,37 @@
+[
+  {
+    "value": "0",
+    "display_name": "I have not experienced any change in my sleeping pattern.",
+    "description": ""
+  },
+  {
+    "value": "1a",
+    "display_name": "I sleep somewhat more than usual.",
+    "description": ""
+  },
+  {
+    "value": "1b",
+    "display_name": "I sleep somewhat less than usual.",
+    "description": ""
+  },
+  {
+    "value": "2a",
+    "display_name": "I sleep a lot more than usual.",
+    "description": ""
+  },
+  {
+    "value": "2b",
+    "display_name": "I sleep a lot less than usual.",
+    "description": ""
+  },
+  {
+    "value": "3a",
+    "display_name": "I sleep most of the day.",
+    "description": ""
+  },
+  {
+    "value": "3b",
+    "display_name": "I wake up 1-2 hours early and can't get back to sleep.",
+    "description": ""
+  }
+]

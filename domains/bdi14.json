@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "I do not feel I am worthless.",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I don't consider myself as worthwhile and useful as I used to.",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "I feel more worthless as compared to other people.",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I feel utterly worthless.",
+    "description": ""
+  }
+]

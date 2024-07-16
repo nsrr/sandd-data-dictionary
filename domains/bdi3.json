@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "I do not feel like a failure.",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I have failed more than I should have.",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "As I look back, I see a lot of failures.",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I feel I am a total failure as a person.",
+    "description": ""
+  }
+]

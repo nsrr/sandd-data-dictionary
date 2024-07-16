@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Morning! I am tired in the evening. ",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Morning more than evening. ",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Evening more than morning. ",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Evening! IÕm tired in the morning. ",
+    "description": ""
+  }
+]

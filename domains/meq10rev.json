@@ -1,0 +1,22 @@
+[
+  {
+    "value": "4",
+    "display_name": "0 to 10 minutes",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "11 to 20 minutes",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "21 to 40 minutes",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "More than 40 minutes ",
+    "description": ""
+  }
+]

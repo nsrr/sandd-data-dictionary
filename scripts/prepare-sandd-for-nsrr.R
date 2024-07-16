@@ -7,21 +7,20 @@ library(foreign)
 setwd("/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/original")
 
 sav_files <- list.files(pattern = "\\.sav$", full.names = TRUE)
-
 data_frames <- lapply(sav_files, function(file) {
-  read.spss(file, to.data.frame = TRUE, use.value.labels = F)
+  read.spss(file, to.data.frame = TRUE, use.value.labels = FALSE)
 })
-
 names(data_frames) <- tools::file_path_sans_ext(basename(sav_files))
+
 
 #rename variables
 data_frames[["S&D S1 BDI_Scored_DeID 3.20.24"]] <- data_frames[["S&D S1 BDI_Scored_DeID 3.20.24"]] %>%
   rename(bdi_score2 = bdi_score.)
-data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 3.20.24"]] <- data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 3.20.24"]] %>%
+data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 7.11.24"]] <- data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 7.11.24"]] %>%
   rename(SHS_PDS_score2 = SHS_PDS_score.)
-data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 3.20.24"]] <- data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 3.20.24"]] %>%
+data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 7.11.24"]] <- data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 7.11.24"]] %>%
   rename(SMITH_TOT2 = SMITH_TOT.)
-data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 3.20.24"]] <- data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 3.20.24"]] %>%
+data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 7.11.24"]] <- data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 7.11.24"]] %>%
   rename(SHS_Pubertal_Category2 = SHS_Pubertal_Category.)
 data_frames[["S&D S1 Mood_sleepiness_DeID 3.21.24"]] <- data_frames[["S&D S1 Mood_sleepiness_DeID 3.21.24"]] %>%
   rename(Mood_Year_Study = Year_Study)
@@ -33,17 +32,17 @@ data_frames[["S&D S1 ScoredActigraphy_withSessionSeason_DeID 3.19.24"]] <- data_
   rename(Actigraphy_Year_Study = Year_Study)
 data_frames[["S&D S1 ScoredActigraphy_withSessionSeason_DeID 3.19.24"]] <- data_frames[["S&D S1 ScoredActigraphy_withSessionSeason_DeID 3.19.24"]] %>%
   rename(actigraphy_day_sequence = day_sequence)
-data_frames[["S&D S1 CESD_Scored_DeID 3.20.24"]] <- data_frames[["S&D S1 CESD_Scored_DeID 3.20.24"]] %>%
+data_frames[["S&D S1 CESD_Scored_DeID 6.25.24"]] <- data_frames[["S&D S1 CESD_Scored_DeID 6.25.24"]] %>%
   rename(cesd_TOT2 = cesd_TOT.)
 
-if ("S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 3.20.24" %in% names(data_frames)) {
-  data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 3.20.24"]] <- data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 3.20.24"]]
-  data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 3.20.24"]]$Session <- ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 3.20.24"]]$Session == "Initial/Baseline", "1",
-                       ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 3.20.24"]]$Session == "6 mo [.5]", "2",
-                              ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 3.20.24"]]$Session == "12 mo [1 yr]", "3",
-                                     ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 3.20.24"]]$Session == "18 mo [1.5 yr]", "4",
-                                            ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 3.20.24"]]$Session == "24 mo [2 yr]", "5",
-                                                   ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 3.20.24"]]$Session == "30 mo [2.5 yr]", "6", data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 3.20.24"]]$Session)
+if ("S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 7.11.24" %in% names(data_frames)) {
+  data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 7.11.24"]] <- data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 7.11.24"]]
+  data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 7.11.24"]]$Session <- ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 7.11.24"]]$Session == "Initial/Baseline", "1",
+                       ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 7.11.24"]]$Session == "6 mo [.5]", "2",
+                              ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 7.11.24"]]$Session == "12 mo [1 yr]", "3",
+                                     ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 7.11.24"]]$Session == "18 mo [1.5 yr]", "4",
+                                            ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 7.11.24"]]$Session == "24 mo [2 yr]", "5",
+                                                   ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 7.11.24"]]$Session == "30 mo [2.5 yr]", "6", data_frames[["S&D S1 Dems_Scores_dlmo_ETOH_season_pds_DeID 7.11.24"]]$Session)
                                             )
                                      )
                               )
@@ -62,16 +61,20 @@ for (i in 2:length(data_frames)) {
     merged_data <- merge(merged_data, data_frames[[i]], by = c("ID", "Session"), all = TRUE)
   }
 }
+#names(merged_data) <- tolower(names(merged_data))
 
-#merged_df2 <- merged_data[!duplicated(merged_data), ]
+#df2 <- read.csv("/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/sandd-dataset-0.1.0.pre.csv")
+# merged_df2 <- merged_data[!duplicated(merged_data), ]
 # check which variables in merged_data is not in sandd-data-dictionary
-df <- read_excel("/Users/isabellaliu/Desktop/BWH/sandd/sandd-data-dictionary.xlsx")
+#df <- read.csv("/Users/isabellaliu/Documents/git/sandd-data-dictionary/exports/0.1.0.pre2/sandd-data-dictionary-0.1.0.pre2-variables.csv")
+df <-read_xlsx("/Users/isabellaliu/Desktop/work/BWH/sandd/sandd-data-dictionary.xlsx")
+names(df$id) <- tolower(names(df$id))
 missing_cols <- setdiff(names(merged_data), df$id)
-exclude_cols <- c("bdi_score2", "cesd_TOT2", "SHS_PDS_score2", "SHS_Pubertal_Category2", "SMITH_TOT2")
+exclude_cols <- c("bdi_score2", "cesd_TOT2", "SHS_PDS_score2", "SHS_Pubertal_Category2", "SMITH_TOT2","druguse")
 missing_cols <- setdiff(missing_cols, exclude_cols)
 merged_data2<- merged_data[, !(names(merged_data) %in% missing_cols)]
 
-# convert time type to hh:mm
+# convert time type to hh:mmmerged_data %>%
 variables_to_convert <- c("fastart", "fasend", "strpstrt", "strpend", "trails_strt", "trails_end", "Rey_copy_start", "Rey_copy_time", "Rey_IR_end", "Rey_IR_time")
 for (variable in variables_to_convert) {
   merged_data2[[variable]] <- format(as.POSIXct(paste(floor(merged_data2[[variable]] / 3600), floor((merged_data2[[variable]] %% 3600) / 60), merged_data2[[variable]] %% 60, sep=":"), format="%H:%M"), "%H:%M")
@@ -96,6 +99,11 @@ names(mood_sleepy_data) <- tolower(names(mood_sleepy_data))
 # remove variables
 merged_data2 <- subset(merged_data2, select = -c(study_name, rey_tester))
 actigraphy_data <- subset(actigraphy_data, select = -c(actmode))
+
+
+# rename druguse as druguse_yesno
+merged_data2 <- merged_data2 %>%
+  rename(druguse_yesno = druguse)
 
 write.csv(merged_data2, file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/sandd-dataset-0.1.0.pre.csv", row.names = FALSE, na='')
 write.csv(mood_sleepy_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/sandd-mood-0.1.0.pre.csv", row.names = FALSE, na='')

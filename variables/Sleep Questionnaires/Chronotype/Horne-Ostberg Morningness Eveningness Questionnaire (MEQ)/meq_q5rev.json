@@ -1,6 +1,7 @@
 {
   "id": "meq_q5rev",
-  "display_name": "MEQ_q5rev - item q5 reverse coded per scoring instructions -When do you have the  most energy to do your favorite things?",
+  "display_name": "MEQ_q5rev - item q5 reverse coded per scoring instructions - When do you have the most energy to do your favorite things?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "meq5rev"
 }

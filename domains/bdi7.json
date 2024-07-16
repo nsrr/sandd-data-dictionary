@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "I feel the same about myself as ever.",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I have lost confidence in myself.",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "I am disappointed in myself.",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I dislike myself.",
+    "description": ""
+  }
+]

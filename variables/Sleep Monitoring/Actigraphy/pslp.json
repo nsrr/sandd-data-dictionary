@@ -2,5 +2,6 @@
   "id": "pslp",
   "display_name": "pslp -Percent Sleep - Percent minutes during the interval scored as sleep (100 * Sleep/Duration)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "percent (%)"
 }

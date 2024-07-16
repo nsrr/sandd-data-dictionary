@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "I am no more tired or fatigued than usual.",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I get more tired or fatigued more easily than usual.",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "I am too tired or fatigued to do a lot of the things I used to do.",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I am too tired or fatigued to do most of the things I used to do.",
+    "description": ""
+  }
+]

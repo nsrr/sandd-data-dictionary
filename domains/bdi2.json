@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "I am not discouraged about my future.",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I feel more discouraged about my future than I used to be.",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "I do not expect things to work out for me.",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I feel my future is hopeless and will only get worse.",
+    "description": ""
+  }
+]

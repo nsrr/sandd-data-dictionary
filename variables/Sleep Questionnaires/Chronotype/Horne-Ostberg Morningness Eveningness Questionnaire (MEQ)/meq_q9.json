@@ -1,6 +1,7 @@
 {
   "id": "meq_q9",
-  "display_name": "meq9 -response to item 9 on meq questionnaire",
+  "display_name": "meq9 -response to item 9 on meq questionnaire - Say you had to get up at 6:00 am every morning: What would it be like?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "meq9"
 }

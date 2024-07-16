@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "I am no more restless or wound up than usual.",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I feel more restless or wound up than usual.",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "I am so restless or agitated that it's hard to stay still.",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I am so restless or agitated that I have to keep moving or doing something.",
+    "description": ""
+  }
+]

@@ -2,5 +2,6 @@
   "id": "bdi3",
   "display_name": "bdi3 -beck depression inventory item 3 past failure",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "bdi3"
 }

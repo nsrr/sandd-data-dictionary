@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "I can concentrate as well as ever.",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I can't concentrate as well as usual.",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "It's hard to keep my mind on anything for very long.",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I find I can't concentrate on anything.",
+    "description": ""
+  }
+]

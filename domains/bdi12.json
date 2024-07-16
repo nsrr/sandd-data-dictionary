@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "I have not lost interest in other people or activities.",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I am less interested in other people or things than before.",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "I have lost most of my interest in other people or things.",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "It's hard to get interested in anything.",
+    "description": ""
+  }
+]

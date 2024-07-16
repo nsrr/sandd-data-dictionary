@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "I have as much energy as ever.",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I have less energy than I used to have.",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "I don't have enough energy to do very much.",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I don't have enough energy to do anything.",
+    "description": ""
+  }
+]

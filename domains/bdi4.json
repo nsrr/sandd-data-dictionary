@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "I get as much pleasure as I ever did from the things I enjoy.",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I don't enjoy things as much as I used to.",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "I get very little pleasure from the things I used to enjoy.",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I can't get any pleasure from the things I used to enjoy.",
+    "description": ""
+  }
+]

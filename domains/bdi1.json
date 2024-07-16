@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "I do not feel sad.",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I feel sad much of the time.",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "I am sad all the time.",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I am so sad or unhappy that I can't stand it.",
+    "description": ""
+  }
+]

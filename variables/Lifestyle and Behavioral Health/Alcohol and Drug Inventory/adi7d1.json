@@ -2,6 +2,6 @@
   "id": "adi7d1",
   "display_name": "Response to item 7 on ADI... Name of drug1 y/n.",
   "description": "",
-  "type": "integer",
+  "type": "choices",
   "domain": "drug"
 }

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "I don't criticize or blame myself more than usual.",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I am more critical of myself than I used to be.",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "I criticize myself for all of my faults.",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I blame myself for everything bad that happens.",
+    "description": ""
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "4",
+    "display_name": "My best!",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Okay.",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Worse than usual. ",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Awful! ",
+    "description": ""
+  }
+]

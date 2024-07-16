@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "I don't have any thoughts of killing myself.",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I have thoughts of killing myself, but I would not carry them out.",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "I would like to kill myself.",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I would kill myself if I had the chance.",
+    "description": ""
+  }
+]

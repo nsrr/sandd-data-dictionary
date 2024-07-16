@@ -2,5 +2,6 @@
   "id": "bdi18",
   "display_name": "bdi18 -beck depression inventory item 18 changes in appetite",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "bdi18"
 }

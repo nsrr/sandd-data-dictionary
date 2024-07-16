@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "I don't feel particularly guilty.",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I feel guilty over many things I have done or should have done.",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "I feel quite guilty most of the time.",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I feel guilty all of the time.",
+    "description": ""
+  }
+]

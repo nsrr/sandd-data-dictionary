@@ -1,6 +1,7 @@
 {
   "id": "meq_q3rev",
-  "display_name": "MEQ_q3rev - item q3 reverse coded per scoring instructions -Gym class set for 7:00 am...how do you think you'll do?",
+  "display_name": "MEQ_q3rev - item q3 reverse coded per scoring instructions - Gym class is set for 7:00 in the morning. How do you think youÕll do?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "meq3rev"
 }

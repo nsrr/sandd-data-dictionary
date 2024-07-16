@@ -1,6 +1,7 @@
 {
   "id": "meq_q8rev",
-  "display_name": "MEQ_q8rev  - item q8 reverse coded per scoring instructions -When does your body start to tell you it's time for bed...? Between...",
+  "display_name": "MEQ_q8rev  - item q8 reverse coded per scoring instructions - When does your body start to tell you itÕs time for bed (even if you ignore it)? Between:",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "meq8rev"
 }

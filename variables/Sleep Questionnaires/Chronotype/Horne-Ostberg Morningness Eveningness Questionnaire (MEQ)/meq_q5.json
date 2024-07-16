@@ -1,6 +1,7 @@
 {
   "id": "meq_q5",
-  "display_name": "meq5 -response to item 5 on meq questionnaire",
+  "display_name": "meq5 -response to item 5 on meq questionnaire - When do you have the most energy to do your favorite things?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "meq5"
 }

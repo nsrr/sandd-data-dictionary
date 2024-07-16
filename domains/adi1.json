@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Never",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "I average less than 1 drink per month",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I average less than 1 drink per week",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "I average at least 1 drink per week",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "I average at least 5 drinks per week",
+    "description": ""
+  }
+]

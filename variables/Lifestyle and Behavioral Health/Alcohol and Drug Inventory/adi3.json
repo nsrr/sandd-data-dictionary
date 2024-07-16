@@ -2,5 +2,6 @@
   "id": "adi3",
   "display_name": "Response to item 3 on ADI... In your lifetime, on how many occasions have you had a drink of BEER, LIQUOR, or WINE?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "adi3"
 }

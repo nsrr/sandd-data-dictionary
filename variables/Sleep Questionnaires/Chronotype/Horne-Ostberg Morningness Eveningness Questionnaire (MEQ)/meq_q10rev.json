@@ -1,6 +1,7 @@
 {
   "id": "meq_q10rev",
-  "display_name": "MEQ_q10rev  - item q10 reverse coded per scoring instructions -When you wake up in the morning how long does it take for you to be totally with it?",
+  "display_name": "MEQ_q10rev  - item q10 reverse coded per scoring instructions - When you wake up in the morning how long does it take for you to be totally Òwith itÓ?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "meq10rev"
 }

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "I don't feel I am being punished.",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I feel I may be punished.",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "I expect to be punished.",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I feel I am being punished.",
+    "description": ""
+  }
+]

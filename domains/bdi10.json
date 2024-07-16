@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "I don't cry anymore than I used to.",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I cry more than I used to.",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "I cry over every little thing.",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I feel like crying, but I can't.",
+    "description": ""
+  }
+]
