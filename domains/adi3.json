@@ -1,7 +1,7 @@
 [
   {
     "value": "1",
-    "display_name": "Less than 10 occasions",
+    "display_name": "less than 10 occasions",
     "description": ""
   },
   {
@@ -11,12 +11,12 @@
   },
   {
     "value": "3",
-    "display_name": "More than 20 occasions",
+    "display_name": "more than 20 occasions",
     "description": ""
   },
   {
-    "value": "4",
-    "display_name": "Never",
+    "value": "99",
+    "display_name": "never drink BEER, LIQUOR, or WINE",
     "description": ""
   }
 ]

@@ -1,6 +1,7 @@
 {
   "id": "owl2",
-  "display_name": "owl2 -response to item 2 on Owl morningness/eveningness questionnaire",
+  "display_name": "owl2 -Is it easy for you to get up in the morning?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "owl2"
 }

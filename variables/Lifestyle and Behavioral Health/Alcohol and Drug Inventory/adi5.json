@@ -1,7 +1,7 @@
 {
   "id": "adi5",
-  "display_name": "Response to item 5 on ADI... In your lifetime, have you ever been \"drunk,\" \"wasted,\" \"loaded,\" or \"high\" from drinking BEER, LIQUOR, or WINE?",
+  "display_name": "In your lifetime, have you ever been \"drunk,\" \"wasted,\" \"loaded,\" or \"high\" from drinking BEER, LIQUOR, or WINE?",
   "description": "",
   "type": "choices",
-  "domain": "adi5"
+  "domain": "yes_no_never"
 }

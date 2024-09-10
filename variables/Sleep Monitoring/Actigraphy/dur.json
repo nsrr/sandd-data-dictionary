@@ -1,6 +1,6 @@
 {
   "id": "dur",
-  "display_name": "dur -Duration - minutes from start to end of Interval [duration of interval in minutes]",
+  "display_name": "dur -Duration - minutes from start to end of Interval",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)"

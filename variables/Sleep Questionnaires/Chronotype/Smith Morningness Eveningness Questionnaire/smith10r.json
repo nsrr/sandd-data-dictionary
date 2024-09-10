@@ -1,6 +1,7 @@
 {
   "id": "smith10r",
-  "display_name": "smith item 10 reverse coded per scoring key/algorithm for scoring smith",
+  "display_name": "smith10r -smith item 10 -time rise workday- reverse coded per scoring key/algorithm for scoring smith",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "smith10r"
 }

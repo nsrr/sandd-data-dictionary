@@ -1,6 +1,7 @@
 {
   "id": "owl7",
-  "display_name": "owl7 -response to item 7 on Owl morningness/eveningness questionnaire",
+  "display_name": "owl7 -How alert are you in the first half hour youÕre up?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "owl7"
 }

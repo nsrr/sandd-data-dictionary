@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "8:00 Ð 10:00 am",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "11:00amÐ1:00pm",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "3:00Ð5:00pm",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "7:00Ð9:00pm ",
+    "description": ""
+  }
+]

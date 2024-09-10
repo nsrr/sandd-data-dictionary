@@ -1,6 +1,7 @@
 {
   "id": "smith4",
-  "display_name": "smith4 -response to item 4 on smith morningness/eveningness questionnaire",
+  "display_name": "smith4 -How alert do you feel during the first half hour after having awakened in the morning? (Check one)",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "smith4"
 }

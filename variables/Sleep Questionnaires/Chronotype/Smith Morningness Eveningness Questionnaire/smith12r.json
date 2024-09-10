@@ -1,6 +1,7 @@
 {
   "id": "smith12r",
-  "display_name": "smith item 12 reverse coded per scoring key/algorithm for scoring smith",
+  "display_name": "smith12r -smith item 12 -time recover senses- reverse coded per scoring key/algorithm for scoring smith",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "smith12r"
 }

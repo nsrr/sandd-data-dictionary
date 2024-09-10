@@ -1,37 +1,22 @@
 [
   {
     "value": "0",
-    "display_name": "I have not experienced any change in my appeute.",
+    "display_name": "I have not experienced any change in my appetite.",
     "description": ""
   },
   {
-    "value": "1a",
-    "display_name": "My appetite is somewhat less than usual.",
+    "value": "1",
+    "display_name": "My appetite is somewhat less/greater than usual.",
     "description": ""
   },
   {
-    "value": "1b",
-    "display_name": "My appetite is somewhat greater than usual.",
+    "value": "2",
+    "display_name": "My appetite is much less/greater than before.",
     "description": ""
   },
   {
-    "value": "2a",
-    "display_name": "My appetite is much less than before.",
-    "description": ""
-  },
-  {
-    "value": "2b",
-    "display_name": "My appetite is much greater than usual.",
-    "description": ""
-  },
-  {
-    "value": "3a",
-    "display_name": "I have no appetite at all.",
-    "description": ""
-  },
-  {
-    "value": "3b",
-    "display_name": "I crave food all the time.",
+    "value": "3",
+    "display_name": "I have no appetite at all/I crave food all the time.",
     "description": ""
   }
 ]

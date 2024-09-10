@@ -1,27 +1,27 @@
 [
   {
+    "value": "0",
+    "display_name": "never [skip to Q6]",
+    "description": ""
+  },
+  {
     "value": "1",
-    "display_name": "Never",
+    "display_name": "less than 1 drink/mo",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "I average less than 1 drink per month",
+    "display_name": "less than 1 drink/wk",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "I average less than 1 drink per week",
+    "display_name": "at least 1 drink/wk",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "I average at least 1 drink per week",
-    "description": ""
-  },
-  {
-    "value": "5",
-    "display_name": "I average at least 5 drinks per week",
+    "display_name": "at least 5 drinks/wk",
     "description": ""
   }
 ]

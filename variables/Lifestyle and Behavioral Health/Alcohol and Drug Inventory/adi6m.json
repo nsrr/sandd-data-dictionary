@@ -1,6 +1,7 @@
 {
   "id": "adi6m",
-  "display_name": "Response to Marijuana item 6 on ADI... Do you use any of the following drugs? ",
+  "display_name": "Do you use any of the following drugs? ",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "yes1_no0"
 }

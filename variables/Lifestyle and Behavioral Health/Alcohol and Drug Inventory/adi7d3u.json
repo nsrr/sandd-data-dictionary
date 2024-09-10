@@ -1,6 +1,7 @@
 {
   "id": "adi7d3u",
-  "display_name": "Response to item 7 on ADI... How many days per week drug3",
+  "display_name": "How many days per week drug3",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "drug_how_often"
 }

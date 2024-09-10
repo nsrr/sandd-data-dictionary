@@ -1,6 +1,7 @@
 {
   "id": "smith12",
-  "display_name": "smith12 -response to item 12 on smith morningness/eveningness questionnaire",
+  "display_name": "smith12 -How long a time does it usually take before you Òrecover your sensesÓ in the morning after rising from a nightÕs sleep?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "smith12"
 }

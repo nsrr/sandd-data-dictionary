@@ -1,6 +1,7 @@
 {
   "id": "owl8",
-  "display_name": "owl8 -response to item 8 on Owl morningness/eveningness questionnaire",
+  "display_name": "owl8 -When does your body start to tell you itÕs time for bed (even if you ignore it)?  Between:",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "owl8"
 }

@@ -1,7 +1,7 @@
 {
   "id": "adi2",
-  "display_name": "Response to item 2 on ADI... Has your experience with alcohol been only during religious ceremonies?",
+  "display_name": "Has your experience with alcohol been only during religious ceremonies?",
   "description": "",
   "type": "choices",
-  "domain": "adi2"
+  "domain": "yes_no_never"
 }

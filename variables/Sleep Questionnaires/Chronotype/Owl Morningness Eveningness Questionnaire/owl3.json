@@ -1,6 +1,7 @@
 {
   "id": "owl3",
-  "display_name": "owl3 -response to item 3 on Owl morningness/eveningness questionnaire",
+  "display_name": "owl3 -Gym class is set for 7:00 in the morning.  How do you think youÕll do?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "owl3"
 }

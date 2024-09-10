@@ -1,6 +1,7 @@
 {
   "id": "smith2r",
-  "display_name": "smith item 2 reverse coded per scoring key/algorithm for scoring smith",
+  "display_name": "smith2r -smith item 2 -time go to bed- reverse coded per scoring key/algorithm for scoring smith",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "smith2r"
 }

@@ -1,6 +1,7 @@
 {
   "id": "smith3",
-  "display_name": "smith3 -response to item 3 on smith morningness/eveningness questionnaire",
+  "display_name": "smith3 -Assuming normal circumstances, how easy do you find getting up in the morning?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "smith3"
 }

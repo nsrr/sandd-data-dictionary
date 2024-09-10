@@ -1,6 +1,7 @@
 {
   "id": "smith5",
-  "display_name": "smith5 -response to item 5 on smith morningness/eveningness questionnaire",
+  "display_name": "smith5 -During the first half hour after having awakened in the morning, how tired do you feel?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "smith5"
 }

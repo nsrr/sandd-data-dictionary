@@ -1,6 +1,7 @@
 {
   "id": "adi7d3",
-  "display_name": "Response to item 7 on ADI... Name of drug3 y/n",
+  "display_name": "Name of drug3 y/n",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "drug"
 }

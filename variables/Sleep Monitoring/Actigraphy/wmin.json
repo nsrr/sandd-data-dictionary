@@ -2,6 +2,5 @@
   "id": "wmin",
   "display_name": "wmin -Wake Minutes - Total minutes scored as wake during the interval",
   "description": "",
-  "type": "numeric",
-  "units": "minutes (min)"
+  "type": "numeric"
 }

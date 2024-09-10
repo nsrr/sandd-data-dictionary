@@ -1,6 +1,7 @@
 {
   "id": "smith10",
-  "display_name": "smith10 -response to item 10 on smith morningness/eveningness questionnaire",
+  "display_name": "smith10 -When would you prefer to rise (provided you have a full day of work- 8 hours) if you were totally free to arrange your time?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "smith10"
 }

@@ -1,6 +1,7 @@
 {
   "id": "smith6",
-  "display_name": "smith6 -response to item 6 on smith morningness/eveningness questionnaire",
+  "display_name": "smith6 -You have decided to engage in some physical exercise. A friend suggests that you do this one hour twice a week and the best time for him is 7:00-8:00 am. ...how do you think you would perform?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "smith6"
 }

@@ -1,6 +1,7 @@
 {
   "id": "smith1",
-  "display_name": "smith1 -response to item 1 on smith morningness/eveningness questionnaire",
+  "display_name": "smith1 - Considering only your own Òfeeling bestÓ rhythm, at what time would you get up if you were entirely free to plan your day?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "smith1"
 }

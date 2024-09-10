@@ -1,6 +1,7 @@
 {
   "id": "smith7",
-  "display_name": "smith7 -response to item 7 on smith morningness/eveningness questionnaire",
+  "display_name": "smith7 -At what time in the evening do you feel tired and, as a result, in need of sleep?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "smith7"
 }

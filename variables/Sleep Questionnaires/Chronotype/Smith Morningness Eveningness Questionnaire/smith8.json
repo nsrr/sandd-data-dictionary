@@ -1,6 +1,7 @@
 {
   "id": "smith8",
-  "display_name": "smith8 -response to item 8 on smith morningness/eveningness questionnaire",
+  "display_name": "smith8 -You wish to be at your peak performance for a test which you know is going to be mentally exhausting and lasting two hours. ... which ONE of the four testing times would you choose?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "smith8"
 }

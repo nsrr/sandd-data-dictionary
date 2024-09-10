@@ -1,6 +1,7 @@
 {
   "id": "smith2",
-  "display_name": "smith2 -response to item 2 on smith morningness/eveningness questionnaire",
+  "display_name": "smith2 -Considering only your own Òfeeling bestÓ rhythm, at what time would you go to bed if you were entirely free to plan your evening?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "smith2"
 }

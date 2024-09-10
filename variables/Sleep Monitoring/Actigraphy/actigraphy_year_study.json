@@ -2,6 +2,5 @@
   "id": "actigraphy_year_study",
   "display_name": "Year_Study -year of study participation",
   "description": "",
-  "type": "numeric",
-  "units": "years"
+  "type": "numeric"
 }

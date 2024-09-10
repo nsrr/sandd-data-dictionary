@@ -1,6 +1,7 @@
 {
   "id": "owl1",
-  "display_name": "owl1 -response to item 1 on Owl morningness/eveningness questionnaire",
+  "display_name": "owl1 -Imagine: School is cancelled!  You can get up whenever you want to.  When would you get out of bed?  Between:",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "owl1"
 }

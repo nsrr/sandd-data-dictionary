@@ -1,6 +1,7 @@
 {
   "id": "smith9",
-  "display_name": "smith9 -response to item 9 on smith morningness/eveningness questionnaire",
+  "display_name": "smith9 -One hears about ÒmorningÓ and ÒeveningÓ types of people.  Which ONE of these types do you consider yourself to be?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "smith9"
 }

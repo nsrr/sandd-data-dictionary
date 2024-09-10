@@ -1,6 +1,7 @@
 {
   "id": "smith11",
-  "display_name": "smith11 -response to item 11 on smith morningness/eveningness questionnaire",
+  "display_name": "smith11 -If you always had to rise at 6:00 am, what do you think it would be like?",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "smith11"
 }

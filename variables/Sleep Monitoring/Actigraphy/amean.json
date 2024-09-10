@@ -1,6 +1,7 @@
 {
   "id": "amean",
-  "display_name": "amean -Activity Mean -Average activity score (counts/epoch)",
+  "display_name": "amean -Activity Mean -Average activity score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "counts"
 }

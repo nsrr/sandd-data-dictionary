@@ -1,7 +1,7 @@
 {
   "id": "adi4",
-  "display_name": "Response to item 4 on ADI... When you drink BEER, LIQUOR, or WINE, have you ever had 3 or more drinks on a given occasion?",
+  "display_name": "When you drink BEER, LIQUOR, or WINE, have you ever had 3 or more drinks on a given occasion?",
   "description": "",
   "type": "choices",
-  "domain": "adi4"
+  "domain": "yes_no_never"
 }

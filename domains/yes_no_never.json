@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "no",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "yes",
+    "description": ""
+  },
+  {
+    "value": "99",
+    "display_name": "never drink BEER, LIQUOR, or WINE",
+    "description": ""
+  }
+]
