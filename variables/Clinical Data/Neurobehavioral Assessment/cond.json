@@ -1,6 +1,6 @@
 {
   "id": "cond",
-  "display_name": "",
+  "display_name": "Study condition",
   "description": "",
   "type": "choices",
   "domain": "cond"

@@ -15,6 +15,11 @@
     "description": ""
   },
   {
+    "value": "2.5",
+    "display_name": "To some extent, morning and evening active",
+    "description": ""
+  },
+  {
     "value": "1",
     "display_name": "Pronounced evening active (morning tired and evening alert) ",
     "description": ""

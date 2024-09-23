@@ -1,6 +1,6 @@
 {
   "id": "rut1",
-  "display_name": "rut1 -response to item 1 on Rutter Childrens Behaviour Questionnaire",
+  "display_name": "Do yo often have backaches?",
   "description": "",
   "type": "choices",
   "domain": "rut"

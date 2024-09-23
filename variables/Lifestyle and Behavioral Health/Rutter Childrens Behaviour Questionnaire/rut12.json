@@ -1,6 +1,6 @@
 {
   "id": "rut12",
-  "display_name": "rut12 -response to item 12 on Rutter Childrens Behaviour Questionnaire",
+  "display_name": "Did you often suddenly become scared for no good reason?",
   "description": "",
   "type": "choices",
   "domain": "rut"
