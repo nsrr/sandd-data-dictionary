@@ -1,27 +1,27 @@
 [
   {
     "value": "1",
-    "display_name": "5:00Ã6:30am",
+    "display_name": "5:00-6:30am",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "6:30Ã7:45am",
+    "display_name": "6:30-7:45am",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "7:45Ã9:45am",
+    "display_name": "7:45-9:45am",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "9:45 Ã 11:00 am",
+    "display_name": "9:45 - 11:00 am",
     "description": ""
   },
   {
     "value": "5",
-    "display_name": "11:00 am Ã 12:00 pm (noon) ",
+    "display_name": "11:00 am - 12:00 pm (noon) ",
     "description": ""
   }
 ]

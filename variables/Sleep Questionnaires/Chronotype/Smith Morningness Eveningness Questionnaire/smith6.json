@@ -1,7 +1,12 @@
 {
   "id": "smith6",
-  "display_name": "smith6 -You have decided to engage in some physical exercise. A friend suggests that you do this one hour twice a week and the best time for him is 7:00-8:00 am. ...how do you think you would perform?",
-  "description": "",
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): You have decided to engage in some physical exercise. A friend suggests that you do this one hour twice a week and the best time for him is 7:00-8:00 am. ...how do you think you would perform?",
+  "description": "Item from the Smith Morningness-Eveningness Questionnaire. [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
   "type": "choices",
-  "domain": "smith6"
+  "domain": "smith6",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_06exercise"
+  ]
 }

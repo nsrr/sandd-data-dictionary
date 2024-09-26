@@ -1,7 +1,12 @@
 {
   "id": "smith13",
-  "display_name": "smith13 -Please indicate to what extent you are a morning or evening individual.",
-  "description": "",
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): Please indicate to what extent you are a morning or evening individual.",
+  "description": "Item from the Smith Morningness-Eveningness Questionnaire. [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
   "type": "choices",
-  "domain": "smith13"
+  "domain": "smith13",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_13extent"
+  ]
 }

@@ -1,22 +1,22 @@
 [
   {
     "value": "4",
-    "display_name": "8:00 Ã 10:00 am",
+    "display_name": "8:00 - 10:00 am",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "11:00amÃ1:00pm",
+    "display_name": "11:00am-1:00pm",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "3:00Ã5:00pm",
+    "display_name": "3:00-5:00pm",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "7:00Ã9:00pm ",
+    "display_name": "7:00-9:00pm ",
     "description": ""
   }
 ]

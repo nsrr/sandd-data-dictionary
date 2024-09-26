@@ -1,7 +1,12 @@
 {
   "id": "smith12r",
-  "display_name": "smith12r -smith item 12 -time recover senses- reverse coded per scoring key/algorithm for scoring smith",
-  "description": "",
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): How long a time does it usually take before you \"recover your senses\" in the morning after rising from a night's sleep?",
+  "description": "Item from the Smith Morningness-Eveningness Questionnaire. Item 1,2,6,7,8,9,10,12,13 are reverse coded. [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
   "type": "choices",
-  "domain": "smith12r"
+  "domain": "smith12r",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_12recover"
+  ]
 }

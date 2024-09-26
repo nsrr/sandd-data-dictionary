@@ -1,7 +1,12 @@
 {
   "id": "smith1",
-  "display_name": "smith1 - Considering only your own Òfeeling bestÓ rhythm, at what time would you get up if you were entirely free to plan your day?",
-  "description": "",
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): Considering only your own \"feeling best\" rhythm, at what time would you get up if you were entirely free to plan your day?",
+  "description": "Item from the Smith Morningness-Eveningness Questionnaire. [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
   "type": "choices",
-  "domain": "smith1"
+  "domain": "smith1",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_01getup"
+  ]
 }

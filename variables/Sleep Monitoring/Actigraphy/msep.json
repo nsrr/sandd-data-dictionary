@@ -1,6 +1,6 @@
 {
   "id": "msep",
-  "display_name": "msep -Mean Sleep Episode - Mean duration of sleep episodes",
+  "display_name": "Mean Sleep Episode - Mean duration of sleep episodes",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)"

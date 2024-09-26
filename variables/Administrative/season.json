@@ -1,6 +1,6 @@
 {
   "id": "season",
-  "display_name": "season - season at time of dems data collection; calculated using defined dates for start and end of each season in each year of study",
+  "display_name": "Season at time of dems data collection; calculated using defined dates for start and end of each season in each year of study",
   "description": "",
   "type": "choices",
   "domain": "season"

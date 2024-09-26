@@ -1,0 +1,11 @@
+{
+  "id": "owl_score",
+  "display_name": "SuperScience Morningness and Eveningness Scale (SSMES): Total score",
+  "description": "Calculated - Total score based on 10-item Pediatric Morningness/Eveningness Questionnaire (also referred to as SuperScience Morningness and Eveningness Scale), with possible range between 10 (minimal morning preference) and 43 (maximal morning preference).  [Carskadon MA et al., 1993 (PubMed ID: 8506460)](https://pubmed.ncbi.nlm.nih.gov/8506460/)<br><br>[Search for all SuperScience Morningness and Eveningness Scale variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=ssmes)",
+  "type": "integer",
+  "labels": [
+    "ssmes",
+    "chronotype",
+    "ssmes_score"
+  ]
+}

@@ -1,6 +1,11 @@
 {
   "id": "smith_tot2",
-  "display_name": "SMITH_TOT$ -Smith total score. items 1,2,6,7,8,9,10,12,13 reverse coded; 9 out of 13 items required. range 13 to 55",
-  "description": "",
-  "type": "numeric"
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): Summary score (9 out of 13 items required)",
+  "description": "Calculated - Total score based on 13-item Smith Morningness-Eveningness Questionnaire (SMEQ). Each item is scored on a 5 point scale (from 1-5), among which items 1,2,6,7,8,9,10,12,13 are reverse coded. The total score is the sum of all 13 items (9 items required) ranging from 13 to 55. A total score of 22 or less indicates evening type; a total score between 23 and 43 indicates intermediate type; a total score of 44 and above indicates morning type. [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
+  "type": "numeric",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_score"
+  ]
 }

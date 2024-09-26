@@ -1,6 +1,6 @@
 {
   "id": "lgwep",
-  "display_name": "lgwep -Longest Wake Episode - Duration of longest wake episode",
+  "display_name": "Longest Wake Episode - Duration of longest wake episode",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)"

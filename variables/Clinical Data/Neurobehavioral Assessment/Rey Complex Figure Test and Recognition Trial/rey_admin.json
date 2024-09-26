@@ -1,0 +1,7 @@
+{
+  "id": "rey_admin",
+  "display_name": "Rey-O administered and pulled for scoring?.",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1_no0"
+}

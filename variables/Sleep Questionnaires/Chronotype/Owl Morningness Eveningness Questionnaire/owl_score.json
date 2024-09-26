@@ -1,6 +1,0 @@
-{
-  "id": "owl_score",
-  "display_name": "Owl_Score -Score for Pediatric MEQ [Owl] per algorithm outlined in Carskadon, et al 1993. range: 10 [minimal morning preference] to 43 [maximal morning preference]",
-  "description": "",
-  "type": "integer"
-}

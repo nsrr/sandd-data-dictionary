@@ -1,7 +1,12 @@
 {
   "id": "smith2r",
-  "display_name": "smith2r -smith item 2 -time go to bed- reverse coded per scoring key/algorithm for scoring smith",
-  "description": "",
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): Considering only your own \"feeling best\" rhythm, at what time would you go to bed if you were entirely free to plan your evening?",
+  "description": "Item from the Smith Morningness-Eveningness Questionnaire. Item 1,2,6,7,8,9,10,12,13 are reverse coded. [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
   "type": "choices",
-  "domain": "smith2r"
+  "domain": "smith2r",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_02bed"
+  ]
 }

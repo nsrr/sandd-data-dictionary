@@ -1,0 +1,7 @@
+{
+  "id": "trails_end",
+  "display_name": "Trail-making test end time.",
+  "description": "",
+  "type": "time",
+  "units": "H:mm"
+}

@@ -1,6 +1,6 @@
 {
   "id": "adism",
-  "display_name": "adism -result of adis for mother.",
+  "display_name": "Result of adis for mother.",
   "description": "",
   "type": "choices",
   "domain": "aud"

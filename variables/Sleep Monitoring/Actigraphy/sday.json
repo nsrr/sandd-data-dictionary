@@ -1,6 +1,6 @@
 {
   "id": "sday",
-  "display_name": "sday -Start Day - Start of sleep interval - day of the week",
+  "display_name": "Start Day - Start of sleep interval - day of the week",
   "description": "",
   "type": "string"
 }

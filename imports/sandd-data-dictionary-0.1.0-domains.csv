@@ -1,333 +1,333 @@
 folder,domain_id,value,display_name,description
-"",adi1,0,never [skip to Q6],""
-"",adi1,1,less than 1 drink/mo,""
-"",adi1,2,less than 1 drink/wk,""
-"",adi1,3,at least 1 drink/wk,""
-"",adi1,4,at least 5 drinks/wk,""
-"",adi3,1,less than 10 occasions,""
-"",adi3,2,11 to 20 occasions,""
-"",adi3,3,more than 20 occasions,""
-"",adi3,99,"never drink BEER, LIQUOR, or WINE",""
-"",aud,0,no aud,""
-"",aud,1,etoh abuse dx,""
-"",aud,2,etoh dependence dx,""
-"",aud,3,both abuse and dep dx,""
-"",aud,999,data missing,""
-"",bdi1,0,I do not feel sad.,""
-"",bdi1,1,I feel sad much of the time.,""
-"",bdi1,2,I am sad all the time.,""
-"",bdi1,3,I am so sad or unhappy that I can't stand it.,""
-"",bdi10,0,I don't cry anymore than I used to.,""
-"",bdi10,1,I cry more than I used to.,""
-"",bdi10,2,I cry over every little thing.,""
-"",bdi10,3,"I feel like crying, but I can't.",""
-"",bdi11,0,I am no more restless or wound up than usual.,""
-"",bdi11,1,I feel more restless or wound up than usual.,""
-"",bdi11,2,I am so restless or agitated that it's hard to stay still.,""
-"",bdi11,3,I am so restless or agitated that I have to keep moving or doing something.,""
-"",bdi12,0,I have not lost interest in other people or activities.,""
-"",bdi12,1,I am less interested in other people or things than before.,""
-"",bdi12,2,I have lost most of my interest in other people or things.,""
-"",bdi12,3,It's hard to get interested in anything.,""
-"",bdi13,0,I make decisions about as well as ever.,""
-"",bdi13,1,I find it more difficult to make decisions than usual.,""
-"",bdi13,2,I have much greater difficulty in making decisions than I used to.,""
-"",bdi13,3,I have trouble making any decisions.,""
-"",bdi14,0,I do not feel I am worthless.,""
-"",bdi14,1,I don't consider myself as worthwhile and useful as I used to.,""
-"",bdi14,2,I feel more worthless as compared to other people.,""
-"",bdi14,3,I feel utterly worthless.,""
-"",bdi15,0,I have as much energy as ever.,""
-"",bdi15,1,I have less energy than I used to have.,""
-"",bdi15,2,I don't have enough energy to do very much.,""
-"",bdi15,3,I don't have enough energy to do anything.,""
-"",bdi16,0,I have not experienced any change in my sleeping pattern.,""
-"",bdi16,1,I sleep somewhat more/less than usual.,""
-"",bdi16,2,I sleep a lot more/less than usual.,""
-"",bdi16,3,I sleep most of the day/I wake up 1-2 hours early and can't get back to sleep.,""
-"",bdi17,0,I am no more irritable than usual.,""
-"",bdi17,1,I am more irritable than usual.,""
-"",bdi17,2,I am much more irritable than usual.,""
-"",bdi17,3,I am irritable all the time.,""
-"",bdi18,0,I have not experienced any change in my appetite.,""
-"",bdi18,1,My appetite is somewhat less/greater than usual.,""
-"",bdi18,2,My appetite is much less/greater than before.,""
-"",bdi18,3,I have no appetite at all/I crave food all the time.,""
-"",bdi19,0,I can concentrate as well as ever.,""
-"",bdi19,1,I can't concentrate as well as usual.,""
-"",bdi19,2,It's hard to keep my mind on anything for very long.,""
-"",bdi19,3,I find I can't concentrate on anything.,""
-"",bdi2,0,I am not discouraged about my future.,""
-"",bdi2,1,I feel more discouraged about my future than I used to be.,""
-"",bdi2,2,I do not expect things to work out for me.,""
-"",bdi2,3,I feel my future is hopeless and will only get worse.,""
-"",bdi20,0,I am no more tired or fatigued than usual.,""
-"",bdi20,1,I get more tired or fatigued more easily than usual.,""
-"",bdi20,2,I am too tired or fatigued to do a lot of the things I used to do.,""
-"",bdi20,3,I am too tired or fatigued to do most of the things I used to do.,""
-"",bdi3,0,I do not feel like a failure.,""
-"",bdi3,1,I have failed more than I should have.,""
-"",bdi3,2,"As I look back, I see a lot of failures.",""
-"",bdi3,3,I feel I am a total failure as a person.,""
-"",bdi4,0,I get as much pleasure as I ever did from the things I enjoy.,""
-"",bdi4,1,I don't enjoy things as much as I used to.,""
-"",bdi4,2,I get very little pleasure from the things I used to enjoy.,""
-"",bdi4,3,I can't get any pleasure from the things I used to enjoy.,""
-"",bdi5,0,I don't feel particularly guilty.,""
-"",bdi5,1,I feel guilty over many things I have done or should have done.,""
-"",bdi5,2,I feel quite guilty most of the time.,""
-"",bdi5,3,I feel guilty all of the time.,""
-"",bdi6,0,I don't feel I am being punished.,""
-"",bdi6,1,I feel I may be punished.,""
-"",bdi6,2,I expect to be punished.,""
-"",bdi6,3,I feel I am being punished.,""
-"",bdi7,0,I feel the same about myself as ever.,""
-"",bdi7,1,I have lost confidence in myself.,""
-"",bdi7,2,I am disappointed in myself.,""
-"",bdi7,3,I dislike myself.,""
-"",bdi8,0,I don't criticize or blame myself more than usual.,""
-"",bdi8,1,I am more critical of myself than I used to be.,""
-"",bdi8,2,I criticize myself for all of my faults.,""
-"",bdi8,3,I blame myself for everything bad that happens.,""
-"",bdi9,0,I don't have any thoughts of killing myself.,""
-"",bdi9,1,"I have thoughts of killing myself, but I would not carry them out.",""
-"",bdi9,2,I would like to kill myself.,""
-"",bdi9,3,I would kill myself if I had the chance.,""
-"",cesd,1,rarely or none of the time (less than 1 day),""
-"",cesd,2,some or a little of the time (1 to 2 days),""
-"",cesd,3,occasionally or a moderate amount of the time (3 to 4 days),""
-"",cesd,4,most or all of the time (5 to 7 days),""
-"",cesdr,0,rarely or none of the time (less than 1 day),""
-"",cesdr,1,some or a little of the time (1 to 2 days),""
-"",cesdr,2,occasionally or a moderate amount of the time (3 to 4 days),""
-"",cesdr,3,most or all of the time (5 to 7 days),""
-"",cesdrr,0,most or all of the time (5 to 7 days),""
-"",cesdrr,1,occasionally or a moderate amount of the time (3 to 4 days),""
-"",cesdrr,2,some or a little of the time (1 to 2 days),""
-"",cesdrr,3,rarely or none of the time (less than 1 day),""
-"",cond,1,baseline,""
-"",cond,2,final,""
-"",cond,3,unknown,""
-"",condition_string,bsln  ,Baseline assessment,""
-"",condition_string,final ,Final Follow-up assessment (1.5 to 3 years later),""
-"",drug,1,Marijuana,""
-"",drug,2,Cocaine,""
-"",drug,3,Stimulants,""
-"",drug,4,Opiates,""
-"",drug,5,Solvents,""
-"",drug,6,Hallucinogens,""
-"",drug,7,Other,""
-"",drug_how_often,1,less than 1 day/year,""
-"",drug_how_often,2,less than 1 day/month,""
-"",drug_how_often,3,1 day/week,""
-"",drug_how_often,4,1-2 days/week,""
-"",drug_how_often,5,3-5 days/week,""
-"",drug_how_often,6,more than 5 days/week,""
-"",drug_yes1_no0,0,"no, never",""
-"",drug_yes1_no0,1,yes,""
-"",ethnicity,0,"No, NOT Hispanic or Latino",""
-"",ethnicity,1,yes is Hispanic or Latino - endorsed response 3 to question re race,""
-"",nsrr_ethnicity,hispanic or latino,hispanic or latino,""
-"",nsrr_ethnicity,not hispanic or latino,not hispanic or latino,""
-"",nsrr_ethnicity,not reported,not reported,""
-"",nsrr_race,white,white,""
-"",nsrr_race,american indian or alaska native,american indian or alaska native,""
-"",nsrr_race,black or african american,black or african american,""
-"",nsrr_race,asian,asian,""
-"",nsrr_race,native hawaiian or other pacific islander,native hawaiian or other pacific islander,""
-"",nsrr_race,hispanic,hispanic,""
-"",nsrr_race,multiple,multiple,""
-"",nsrr_race,other,other,""
-"",nsrr_race,unknown,unknown,""
-"",nsrr_race,not reported,not reported,""
-"",nsrr_race,not allowed to collect,not allowed to collect,""
-"",nsrr_sex,female,female,""
-"",nsrr_sex,male,male,""
-"",nsrr_sex,not reported,not reported,""
-"",owl1,5,5:00 and 6:30 am ,""
-"",owl1,4,6:30 and 7:45 am ,""
-"",owl1,3,7:45 and 9:45 am ,""
-"",owl1,2,9:45 and 11:00 am ,""
-"",owl1,1,11:00 am and noon ,""
-"",owl10,4,0 to 10 minutes,""
-"",owl10,3,11 to 20 minutes,""
-"",owl10,2,21 to 40 minutes,""
-"",owl10,1,More than 40 minutes ,""
-"",owl2,1,No way! ,""
-"",owl2,2,Sort of. ,""
-"",owl2,3,Pretty easy. ,""
-"",owl2,4,ItÕ s a cinch! ,""
-"",owl3,4,My best!,""
-"",owl3,3,Okay.,""
-"",owl3,2,Worse than usual. ,""
-"",owl3,1,Awful! ,""
-"",owl4,4,8:00 to 10:00 am ,""
-"",owl4,3,11:00 am to 1:00 pm ,""
-"",owl4,2,3:00 pm to 5:00 pm ,""
-"",owl4,1,7:00 pm to 9:00 pm ,""
-"",owl5,4,Morning! I am tired in the evening. ,""
-"",owl5,3,Morning more than evening. ,""
-"",owl5,2,Evening more than morning. ,""
-"",owl5,1,Evening! IÕm tired in the morning. ,""
-"",owl6,5,8:00 and 9:00 pm,""
-"",owl6,4,9:00 and 10:15 pm ,""
-"",owl6,3,10:15 pm and 12:30 am ,""
-"",owl6,2,12:30 and 1:45 am,""
-"",owl6,1,1:45 and 3:00 am ,""
-"",owl7,1,Outofit. ,""
-"",owl7,2,A little dazed.,""
-"",owl7,3,Okay.,""
-"",owl7,4,Ready to take on the world. ,""
-"",owl8,5,8:00 and 9:00 pm,""
-"",owl8,4,9:00 and 10:15 pm,""
-"",owl8,3,10:15 pm and 12:30 am,""
-"",owl8,2,12:30 and 1:45 am,""
-"",owl8,1,1:45 and 3:00 am ,""
-"",owl9,1,Awful!,""
-"",owl9,2,Not so great.,""
-"",owl9,3,Okay (if I have to). ,""
-"",owl9,4,"Fine, no problem! ",""
-"",parent,0,neither parent,""
-"",parent,1,one or both parent,""
-"",parent,999,data missing,""
-"",parent_status,0,No parental history of etoh diagnosis,""
-"",parent_status,1,Mother history of etoh abuse or dependence; father no etoh dx,""
-"",parent_status,2,Mother no etoh dx; father history of abuse or dependence,""
-"",parent_status,3,Mother and father history of etoh abuse or dependence,""
-"",parent_status,4,Data for mother missing; father history of abuse or dependence,""
-"",parent_status,5,Mother history of etoh abuse or dependence;  data for father missing,""
-"",parent_status,999,"Data missing for both; or missing for one parent, and other parent is no hx",""
-"",race,1,White,""
-"",race,2,Black/African American,""
-"",race,3,Hispanic/Latino,""
-"",race,4,Asian,""
-"",race,5,Native American/American Indian,""
-"",race,6,Multiracial,""
-"",race,7,Other,""
-"",rey,1,<=1,""
-"",rey,2,5-Feb,""
-"",rey,3,10-Jun,""
-"",rey,4,16-Nov,""
-"",rey,5,>16,""
-"",rut,0,responded no to this Rutter item,""
-"",rut,1,responded yes to this item,""
-"",season,1,Winter,""
-"",season,2,Spring,""
-"",season,3,Fall,""
-"",season,4,Summer,""
-"",self_entrained,1,self-selected,""
-"",self_entrained,2,entrained,""
-"",session,1,initial/baseline timepoint,""
-"",session,2,6-month follow up,""
-"",session,3,12 mo[1yr] follow up,""
-"",session,4,18mo[1.5yr],""
-"",session,5,24mo[2yr],""
-"",session,6,30mo[2.5y],""
-"",sex,0,male,""
-"",sex,1,female,""
-"",smith1,5,5:00Ð6:30am,""
-"",smith1,4,6:30Ð7:45am,""
-"",smith1,3,7:45Ð9:45am,""
-"",smith1,2,9:45 Ð 11:00 am,""
-"",smith1,1,11:00 am Ð 12:00 pm (noon) ,""
-"",smith10,4,Before 6:30 am ,""
-"",smith10,3,6:30Ð7:30am,""
-"",smith10,2,7:30Ð8:30am ,""
-"",smith10,1,8:30 am or later ,""
-"",smith10r,1,Before 6:30 am ,""
-"",smith10r,2,6:30Ð7:30am,""
-"",smith10r,3,7:30Ð8:30am ,""
-"",smith10r,4,8:30 am or later ,""
-"",smith11,1,Very difficult and unpleasant,""
-"",smith11,2,Rather difficult and unpleasant,""
-"",smith11,3,A little unpleasant but no great problem,""
-"",smith11,4,Easy and not unpleasant ,""
-"",smith12,4,0-10 minutes,""
-"",smith12,3,11-20 minutes,""
-"",smith12,2,21-40 minutes,""
-"",smith12,1,More than 40 minutes ,""
-"",smith12r,1,0-10 minutes,""
-"",smith12r,2,11-20 minutes,""
-"",smith12r,3,21-40 minutes,""
-"",smith12r,4,More than 40 minutes ,""
-"",smith13,4,Pronounced morning active (morning alert and evening tired) ,""
-"",smith13,3,"To some extent, morning active",""
-"",smith13,2,"To some extent, evening active",""
-"",smith13,2.5,"To some extent, morning and evening active",""
-"",smith13,1,Pronounced evening active (morning tired and evening alert) ,""
-"",smith13r,1,Pronounced morning active (morning alert and evening tired) ,""
-"",smith13r,2,"To some extent, morning active",""
-"",smith13r,3,"To some extent, evening active",""
-"",smith13r,4,Pronounced evening active (morning tired and evening alert) ,""
-"",smith1r,1,5:00Ð6:30am,""
-"",smith1r,2,6:30Ð7:45am,""
-"",smith1r,3,7:45Ð9:45am,""
-"",smith1r,4,9:45 Ð 11:00 am,""
-"",smith1r,5,11:00 am Ð 12:00 pm (noon) ,""
-"",smith2,5,8:00Ð9:00pm,""
-"",smith2,4,9:00 Ð 10:15 pm,""
-"",smith2,3,10:15 pm Ð 12:30 am,""
-"",smith2,2,12:30 Ð 1:45 am,""
-"",smith2,1,1:45Ð3:00am ,""
-"",smith2r,1,8:00Ð9:00pm,""
-"",smith2r,2,9:00 Ð 10:15 pm,""
-"",smith2r,3,10:15 pm Ð 12:30 am,""
-"",smith2r,4,12:30 Ð 1:45 am,""
-"",smith2r,5,1:45Ð3:00am ,""
-"",smith3,1,Not at all easy,""
-"",smith3,2,Slightly easy,""
-"",smith3,3,Fairly easy,""
-"",smith3,4,Very easy ,""
-"",smith4,1,Not at all alert,""
-"",smith4,2,Slightly alert,""
-"",smith4,3,Fairly alert,""
-"",smith4,4,Very alert ,""
-"",smith5,1,Very tired,""
-"",smith5,2,Fairly tired,""
-"",smith5,3,Fairly refreshed ,""
-"",smith5,4,Very refreshed ,""
-"",smith6,4,Would be in good form,""
-"",smith6,3,Would be in reasonable form,""
-"",smith6,2,Would find it difficult,""
-"",smith6,1,Would find it very difficult ,""
-"",smith6r,1,Would be in good form,""
-"",smith6r,2,Would be in reasonable form,""
-"",smith6r,3,Would find it difficult,""
-"",smith6r,4,Would find it very difficult ,""
-"",smith7,5,8:00Ð9:00pm,""
-"",smith7,4,9:00 Ð 10:15 pm,""
-"",smith7,3,10:15 pm Ð 12:30 am,""
-"",smith7,2,12:30 Ð 1:45 am,""
-"",smith7,1,1:45Ð3:00am ,""
-"",smith7r,1,8:00Ð9:00pm,""
-"",smith7r,2,9:00 Ð 10:15 pm,""
-"",smith7r,3,10:15 pm Ð 12:30 am,""
-"",smith7r,4,12:30 Ð 1:45 am,""
-"",smith7r,5,1:45Ð3:00am ,""
-"",smith8,4,8:00 Ð 10:00 am,""
-"",smith8,3,11:00amÐ1:00pm,""
-"",smith8,2,3:00Ð5:00pm,""
-"",smith8,1,7:00Ð9:00pm ,""
-"",smith8r,1,8:00 Ð 10:00 am,""
-"",smith8r,2,11:00amÐ1:00pm,""
-"",smith8r,3,3:00Ð5:00pm,""
-"",smith8r,4,7:00Ð9:00pm ,""
-"",smith9,4,Definitely a morning type,""
-"",smith9,3,More a morning type than evening type,""
-"",smith9,2,More an evening type than morning type,""
-"",smith9,1,Definitely an evening type ,""
-"",smith9r,1,Definitely a morning type,""
-"",smith9r,2,More a morning type than evening type,""
-"",smith9r,3,More an evening type than morning type,""
-"",smith9r,4,Definitely an evening type ,""
-"",study_condition,1,saliva collection [DLMO assessment],""
-"",study_condition,2,adaptation,""
-"",study_condition,3,baseline,""
-"",type,1,Morning type,""
-"",type,2,Intermediate type,""
-"",type,3,Evening type,""
-"",yes1_no0,0,No,""
-"",yes1_no0,1,Yes,""
-"",yes_no_never,0,no,""
-"",yes_no_never,1,yes,""
-"",yes_no_never,99,"never drink BEER, LIQUOR, or WINE",""
+,adi1,0,never [skip to Q6],
+,adi1,1,less than 1 drink/mo,
+,adi1,2,less than 1 drink/wk,
+,adi1,3,at least 1 drink/wk,
+,adi1,4,at least 5 drinks/wk,
+,adi3,1,less than 10 occasions,
+,adi3,2,11 to 20 occasions,
+,adi3,3,more than 20 occasions,
+,adi3,99,"never drink BEER, LIQUOR, or WINE",
+,aud,0,no aud,
+,aud,1,etoh abuse dx,
+,aud,2,etoh dependence dx,
+,aud,3,both abuse and dep dx,
+,aud,999,data missing,
+,bdi1,0,I do not feel sad.,
+,bdi1,1,I feel sad much of the time.,
+,bdi1,2,I am sad all the time.,
+,bdi1,3,I am so sad or unhappy that I can't stand it.,
+,bdi10,0,I don't cry anymore than I used to.,
+,bdi10,1,I cry more than I used to.,
+,bdi10,2,I cry over every little thing.,
+,bdi10,3,"I feel like crying, but I can't.",
+,bdi11,0,I am no more restless or wound up than usual.,
+,bdi11,1,I feel more restless or wound up than usual.,
+,bdi11,2,I am so restless or agitated that it's hard to stay still.,
+,bdi11,3,I am so restless or agitated that I have to keep moving or doing something.,
+,bdi12,0,I have not lost interest in other people or activities.,
+,bdi12,1,I am less interested in other people or things than before.,
+,bdi12,2,I have lost most of my interest in other people or things.,
+,bdi12,3,It's hard to get interested in anything.,
+,bdi13,0,I make decisions about as well as ever.,
+,bdi13,1,I find it more difficult to make decisions than usual.,
+,bdi13,2,I have much greater difficulty in making decisions than I used to.,
+,bdi13,3,I have trouble making any decisions.,
+,bdi14,0,I do not feel I am worthless.,
+,bdi14,1,I don't consider myself as worthwhile and useful as I used to.,
+,bdi14,2,I feel more worthless as compared to other people.,
+,bdi14,3,I feel utterly worthless.,
+,bdi15,0,I have as much energy as ever.,
+,bdi15,1,I have less energy than I used to have.,
+,bdi15,2,I don't have enough energy to do very much.,
+,bdi15,3,I don't have enough energy to do anything.,
+,bdi16,0,I have not experienced any change in my sleeping pattern.,
+,bdi16,1,I sleep somewhat more/less than usual.,
+,bdi16,2,I sleep a lot more/less than usual.,
+,bdi16,3,I sleep most of the day/I wake up 1-2 hours early and can't get back to sleep.,
+,bdi17,0,I am no more irritable than usual.,
+,bdi17,1,I am more irritable than usual.,
+,bdi17,2,I am much more irritable than usual.,
+,bdi17,3,I am irritable all the time.,
+,bdi18,0,I have not experienced any change in my appetite.,
+,bdi18,1,My appetite is somewhat less/greater than usual.,
+,bdi18,2,My appetite is much less/greater than before.,
+,bdi18,3,I have no appetite at all/I crave food all the time.,
+,bdi19,0,I can concentrate as well as ever.,
+,bdi19,1,I can't concentrate as well as usual.,
+,bdi19,2,It's hard to keep my mind on anything for very long.,
+,bdi19,3,I find I can't concentrate on anything.,
+,bdi2,0,I am not discouraged about my future.,
+,bdi2,1,I feel more discouraged about my future than I used to be.,
+,bdi2,2,I do not expect things to work out for me.,
+,bdi2,3,I feel my future is hopeless and will only get worse.,
+,bdi20,0,I am no more tired or fatigued than usual.,
+,bdi20,1,I get more tired or fatigued more easily than usual.,
+,bdi20,2,I am too tired or fatigued to do a lot of the things I used to do.,
+,bdi20,3,I am too tired or fatigued to do most of the things I used to do.,
+,bdi3,0,I do not feel like a failure.,
+,bdi3,1,I have failed more than I should have.,
+,bdi3,2,"As I look back, I see a lot of failures.",
+,bdi3,3,I feel I am a total failure as a person.,
+,bdi4,0,I get as much pleasure as I ever did from the things I enjoy.,
+,bdi4,1,I don't enjoy things as much as I used to.,
+,bdi4,2,I get very little pleasure from the things I used to enjoy.,
+,bdi4,3,I can't get any pleasure from the things I used to enjoy.,
+,bdi5,0,I don't feel particularly guilty.,
+,bdi5,1,I feel guilty over many things I have done or should have done.,
+,bdi5,2,I feel quite guilty most of the time.,
+,bdi5,3,I feel guilty all of the time.,
+,bdi6,0,I don't feel I am being punished.,
+,bdi6,1,I feel I may be punished.,
+,bdi6,2,I expect to be punished.,
+,bdi6,3,I feel I am being punished.,
+,bdi7,0,I feel the same about myself as ever.,
+,bdi7,1,I have lost confidence in myself.,
+,bdi7,2,I am disappointed in myself.,
+,bdi7,3,I dislike myself.,
+,bdi8,0,I don't criticize or blame myself more than usual.,
+,bdi8,1,I am more critical of myself than I used to be.,
+,bdi8,2,I criticize myself for all of my faults.,
+,bdi8,3,I blame myself for everything bad that happens.,
+,bdi9,0,I don't have any thoughts of killing myself.,
+,bdi9,1,"I have thoughts of killing myself, but I would not carry them out.",
+,bdi9,2,I would like to kill myself.,
+,bdi9,3,I would kill myself if I had the chance.,
+,cesd,1,rarely or none of the time (less than 1 day),
+,cesd,2,some or a little of the time (1 to 2 days),
+,cesd,3,occasionally or a moderate amount of the time (3 to 4 days),
+,cesd,4,most or all of the time (5 to 7 days),
+,cesdr,0,rarely or none of the time (less than 1 day),
+,cesdr,1,some or a little of the time (1 to 2 days),
+,cesdr,2,occasionally or a moderate amount of the time (3 to 4 days),
+,cesdr,3,most or all of the time (5 to 7 days),
+,cesdrr,0,most or all of the time (5 to 7 days),
+,cesdrr,1,occasionally or a moderate amount of the time (3 to 4 days),
+,cesdrr,2,some or a little of the time (1 to 2 days),
+,cesdrr,3,rarely or none of the time (less than 1 day),
+,cond,1,baseline,
+,cond,2,final,
+,cond,3,unknown,
+,condition_string,bsln  ,Baseline assessment,
+,condition_string,final ,Final Follow-up assessment (1.5 to 3 years later),
+,drug,1,Marijuana,
+,drug,2,Cocaine,
+,drug,3,Stimulants,
+,drug,4,Opiates,
+,drug,5,Solvents,
+,drug,6,Hallucinogens,
+,drug,7,Other,
+,drug_how_often,1,less than 1 day/year,
+,drug_how_often,2,less than 1 day/month,
+,drug_how_often,3,1 day/week,
+,drug_how_often,4,1-2 days/week,
+,drug_how_often,5,3-5 days/week,
+,drug_how_often,6,more than 5 days/week,
+,drug_yes1_no0,0,"no, never",
+,drug_yes1_no0,1,yes,
+,ethnicity,0,"No, NOT Hispanic or Latino",
+,ethnicity,1,yes is Hispanic or Latino - endorsed response 3 to question re race,
+,nsrr_ethnicity,hispanic or latino,hispanic or latino,
+,nsrr_ethnicity,not hispanic or latino,not hispanic or latino,
+,nsrr_ethnicity,not reported,not reported,
+,nsrr_race,white,white,
+,nsrr_race,american indian or alaska native,american indian or alaska native,
+,nsrr_race,black or african american,black or african american,
+,nsrr_race,asian,asian,
+,nsrr_race,native hawaiian or other pacific islander,native hawaiian or other pacific islander,
+,nsrr_race,hispanic,hispanic,
+,nsrr_race,multiple,multiple,
+,nsrr_race,other,other,
+,nsrr_race,unknown,unknown,
+,nsrr_race,not reported,not reported,
+,nsrr_race,not allowed to collect,not allowed to collect,
+,nsrr_sex,female,female,
+,nsrr_sex,male,male,
+,nsrr_sex,not reported,not reported,
+,owl1,5,5:00 and 6:30 am ,
+,owl1,4,6:30 and 7:45 am ,
+,owl1,3,7:45 and 9:45 am ,
+,owl1,2,9:45 and 11:00 am ,
+,owl1,1,11:00 am and noon ,
+,owl10,4,0 to 10 minutes,
+,owl10,3,11 to 20 minutes,
+,owl10,2,21 to 40 minutes,
+,owl10,1,More than 40 minutes ,
+,owl2,1,No way! ,
+,owl2,2,Sort of. ,
+,owl2,3,Pretty easy. ,
+,owl2,4,ItÕ s a cinch! ,
+,owl3,4,My best!,
+,owl3,3,Okay.,
+,owl3,2,Worse than usual. ,
+,owl3,1,Awful! ,
+,owl4,4,8:00 to 10:00 am ,
+,owl4,3,11:00 am to 1:00 pm ,
+,owl4,2,3:00 pm to 5:00 pm ,
+,owl4,1,7:00 pm to 9:00 pm ,
+,owl5,4,Morning! I am tired in the evening. ,
+,owl5,3,Morning more than evening. ,
+,owl5,2,Evening more than morning. ,
+,owl5,1,Evening! I am tired in the morning. ,
+,owl6,5,8:00 and 9:00 pm,
+,owl6,4,9:00 and 10:15 pm ,
+,owl6,3,10:15 pm and 12:30 am ,
+,owl6,2,12:30 and 1:45 am,
+,owl6,1,1:45 and 3:00 am ,
+,owl7,1,Outofit. ,
+,owl7,2,A little dazed.,
+,owl7,3,Okay.,
+,owl7,4,Ready to take on the world. ,
+,owl8,5,8:00 and 9:00 pm,
+,owl8,4,9:00 and 10:15 pm,
+,owl8,3,10:15 pm and 12:30 am,
+,owl8,2,12:30 and 1:45 am,
+,owl8,1,1:45 and 3:00 am ,
+,owl9,1,Awful!,
+,owl9,2,Not so great.,
+,owl9,3,Okay (if I have to). ,
+,owl9,4,"Fine, no problem! ",
+,parent,0,neither parent,
+,parent,1,one or both parent,
+,parent,999,data missing,
+,parent_status,0,No parental history of etoh diagnosis,
+,parent_status,1,Mother history of etoh abuse or dependence; father no etoh dx,
+,parent_status,2,Mother no etoh dx; father history of abuse or dependence,
+,parent_status,3,Mother and father history of etoh abuse or dependence,
+,parent_status,4,Data for mother missing; father history of abuse or dependence,
+,parent_status,5,Mother history of etoh abuse or dependence;  data for father missing,
+,parent_status,999,"Data missing for both; or missing for one parent, and other parent is no hx",
+,race,1,White,
+,race,2,Black/African American,
+,race,3,Hispanic/Latino,
+,race,4,Asian,
+,race,5,Native American/American Indian,
+,race,6,Multiracial,
+,race,7,Other,
+,rey,1,<=1,
+,rey,2,5-Feb,
+,rey,3,10-Jun,
+,rey,4,16-Nov,
+,rey,5,>16,
+,rut,0,responded no to this Rutter item,
+,rut,1,responded yes to this item,
+,season,1,Winter,
+,season,2,Spring,
+,season,3,Fall,
+,season,4,Summer,
+,self_entrained,1,self-selected,
+,self_entrained,2,entrained,
+,session,1,initial/baseline timepoint,
+,session,2,6-month follow up,
+,session,3,12 mo[1yr] follow up,
+,session,4,18mo[1.5yr],
+,session,5,24mo[2yr],
+,session,6,30mo[2.5y],
+,sex,0,male,
+,sex,1,female,
+,smith1,5,5:00-6:30am,
+,smith1,4,6:30-7:45am,
+,smith1,3,7:45-9:45am,
+,smith1,2,9:45 - 11:00 am,
+,smith1,1,11:00 am - 12:00 pm (noon) ,
+,smith10,4,Before 6:30 am ,
+,smith10,3,6:30-7:30am,
+,smith10,2,7:30-8:30am ,
+,smith10,1,8:30 am or later ,
+,smith10r,1,Before 6:30 am ,
+,smith10r,2,6:30-7:30am,
+,smith10r,3,7:30-8:30am ,
+,smith10r,4,8:30 am or later ,
+,smith11,1,Very difficult and unpleasant,
+,smith11,2,Rather difficult and unpleasant,
+,smith11,3,A little unpleasant but no great problem,
+,smith11,4,Easy and not unpleasant ,
+,smith12,4,0-10 minutes,
+,smith12,3,11-20 minutes,
+,smith12,2,21-40 minutes,
+,smith12,1,More than 40 minutes ,
+,smith12r,1,0-10 minutes,
+,smith12r,2,11-20 minutes,
+,smith12r,3,21-40 minutes,
+,smith12r,4,More than 40 minutes ,
+,smith13,4,Pronounced morning active (morning alert and evening tired) ,
+,smith13,3,"To some extent, morning active",
+,smith13,2,"To some extent, evening active",
+,smith13,2.5,"To some extent, morning and evening active",
+,smith13,1,Pronounced evening active (morning tired and evening alert) ,
+,smith13r,1,Pronounced morning active (morning alert and evening tired) ,
+,smith13r,2,"To some extent, morning active",
+,smith13r,3,"To some extent, evening active",
+,smith13r,4,Pronounced evening active (morning tired and evening alert) ,
+,smith1r,1,5:00-6:30am,
+,smith1r,2,6:30-7:45am,
+,smith1r,3,7:45-9:45am,
+,smith1r,4,9:45 - 11:00 am,
+,smith1r,5,11:00 am - 12:00 pm (noon) ,
+,smith2,5,8:00-9:00pm,
+,smith2,4,9:00 - 10:15 pm,
+,smith2,3,10:15 pm - 12:30 am,
+,smith2,2,12:30 - 1:45 am,
+,smith2,1,1:45-3:00am ,
+,smith2r,1,8:00-9:00pm,
+,smith2r,2,9:00 - 10:15 pm,
+,smith2r,3,10:15 pm - 12:30 am,
+,smith2r,4,12:30 - 1:45 am,
+,smith2r,5,1:45-3:00am ,
+,smith3,1,Not at all easy,
+,smith3,2,Slightly easy,
+,smith3,3,Fairly easy,
+,smith3,4,Very easy ,
+,smith4,1,Not at all alert,
+,smith4,2,Slightly alert,
+,smith4,3,Fairly alert,
+,smith4,4,Very alert ,
+,smith5,1,Very tired,
+,smith5,2,Fairly tired,
+,smith5,3,Fairly refreshed ,
+,smith5,4,Very refreshed ,
+,smith6,4,Would be in good form,
+,smith6,3,Would be in reasonable form,
+,smith6,2,Would find it difficult,
+,smith6,1,Would find it very difficult ,
+,smith6r,1,Would be in good form,
+,smith6r,2,Would be in reasonable form,
+,smith6r,3,Would find it difficult,
+,smith6r,4,Would find it very difficult ,
+,smith7,5,8:00-9:00pm,
+,smith7,4,9:00 - 10:15 pm,
+,smith7,3,10:15 pm - 12:30 am,
+,smith7,2,12:30 - 1:45 am,
+,smith7,1,1:45-3:00am ,
+,smith7r,1,8:00-9:00pm,
+,smith7r,2,9:00 - 10:15 pm,
+,smith7r,3,10:15 pm - 12:30 am,
+,smith7r,4,12:30 - 1:45 am,
+,smith7r,5,1:45-3:00am ,
+,smith8,4,8:00 - 10:00 am,
+,smith8,3,11:00am-1:00pm,
+,smith8,2,3:00-5:00pm,
+,smith8,1,7:00-9:00pm ,
+,smith8r,1,8:00 - 10:00 am,
+,smith8r,2,11:00am-1:00pm,
+,smith8r,3,3:00-5:00pm,
+,smith8r,4,7:00-9:00pm ,
+,smith9,4,Definitely a morning type,
+,smith9,3,More a morning type than evening type,
+,smith9,2,More an evening type than morning type,
+,smith9,1,Definitely an evening type ,
+,smith9r,1,Definitely a morning type,
+,smith9r,2,More a morning type than evening type,
+,smith9r,3,More an evening type than morning type,
+,smith9r,4,Definitely an evening type ,
+,study_condition,1,saliva collection [DLMO assessment],
+,study_condition,2,adaptation,
+,study_condition,3,baseline,
+,type,1,Morning type,
+,type,2,Intermediate type,
+,type,3,Evening type,
+,yes1_no0,0,No,
+,yes1_no0,1,Yes,
+,yes_no_never,0,no,
+,yes_no_never,1,yes,
+,yes_no_never,99,"never drink BEER, LIQUOR, or WINE",

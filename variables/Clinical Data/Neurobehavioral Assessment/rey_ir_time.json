@@ -1,7 +1,0 @@
-{
-  "id": "rey_ir_time",
-  "display_name": "Rey_IR_time *Rey Immediate Recall time to completion.",
-  "description": "",
-  "type": "time",
-  "units": "hh:mm"
-}

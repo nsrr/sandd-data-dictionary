@@ -3,5 +3,5 @@
   "display_name": "Actual start time for this ss admin",
   "description": "",
   "type": "time",
-  "units": "hh:mm"
+  "units": "H:mm"
 }

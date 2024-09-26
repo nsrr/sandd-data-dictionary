@@ -1,7 +1,12 @@
 {
   "id": "smith11",
-  "display_name": "smith11 -If you always had to rise at 6:00 am, what do you think it would be like?",
-  "description": "",
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): If you always had to rise at 6:00 am, what do you think it would be like?",
+  "description": "Item from the Smith Morningness-Eveningness Questionnaire. [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
   "type": "choices",
-  "domain": "smith11"
+  "domain": "smith11",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_11hadto"
+  ]
 }

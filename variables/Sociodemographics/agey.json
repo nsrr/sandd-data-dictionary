@@ -1,7 +1,7 @@
 {
   "id": "agey",
-  "display_name": "agey -ppts age years portion; from SMAFH. completed prior to inlab",
-  "description": "",
+  "display_name": "Participant's age years portion",
+  "description": "From SMAFH. completed prior to inlab",
   "type": "integer",
   "units": "years"
 }

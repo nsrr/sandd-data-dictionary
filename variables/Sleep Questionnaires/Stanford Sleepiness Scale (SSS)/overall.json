@@ -1,6 +1,6 @@
 {
   "id": "overall",
-  "display_name": "Overall, how do you feel? 0 [Very bad] - 100 [Very good]",
-  "description": "",
+  "display_name": "Overall, how do you feel?",
+  "description": "0 [very little] - 100 [very much]",
   "type": "numeric"
 }

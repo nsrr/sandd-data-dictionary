@@ -1,7 +1,0 @@
-{
-  "id": "strpend",
-  "display_name": "STRPEND *Stroop end time.",
-  "description": "",
-  "type": "time",
-  "units": "hh:mm"
-}

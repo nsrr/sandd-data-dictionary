@@ -1,6 +1,0 @@
-{
-  "id": "bdi_score",
-  "display_name": "bdi_score - all 20 items must have response [this modified BDI omitted item 21 as not appropriate for population). Score is mean of all 1-20 items w response, multiplied by 21 [# of items in full BDI]. Possible range: 0-63",
-  "description": "",
-  "type": "numeric"
-}

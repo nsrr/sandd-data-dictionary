@@ -1,0 +1,7 @@
+{
+  "id": "strpstrt",
+  "display_name": "Stroop start time.",
+  "description": "",
+  "type": "time",
+  "units": "H:mm"
+}

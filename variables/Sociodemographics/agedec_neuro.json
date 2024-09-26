@@ -1,0 +1,7 @@
+{
+  "id": "agedec_neuro",
+  "display_name": "Participants age at time of neuropsych test as year plus decimal",
+  "description": "",
+  "type": "numeric",
+  "units": "years"
+}

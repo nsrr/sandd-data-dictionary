@@ -1,6 +1,6 @@
 {
   "id": "year_study",
-  "display_name": "Year_Study -year of study participation. Enrollment began in 2002; every 6 mos follow up continued until last one in 2007.",
+  "display_name": "Year of study participation. Enrollment began in 2002; every 6 mos follow up continued until last one in 2007.",
   "description": "",
   "type": "integer"
 }

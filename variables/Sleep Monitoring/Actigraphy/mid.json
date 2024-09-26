@@ -1,7 +1,7 @@
 {
   "id": "mid",
-  "display_name": "mid -Midpoint - Midpoint time of interval",
+  "display_name": "Midpoint - Midpoint time of interval",
   "description": "",
   "type": "time",
-  "units": "hh:mm"
+  "units": "H:mm"
 }

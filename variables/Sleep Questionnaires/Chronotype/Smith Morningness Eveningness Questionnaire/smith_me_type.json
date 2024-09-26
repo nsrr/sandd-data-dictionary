@@ -1,7 +1,12 @@
 {
   "id": "smith_me_type",
-  "display_name": "SMITH_ME_Type -ppts chronotype based on their SMITH total$ score.",
-  "description": "",
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): Type",
+  "description": "Chronotype based on total score of Smith Morningness-Eveningness Questionnaire (SMEQ).  [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
   "type": "choices",
-  "domain": "type"
+  "domain": "type",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_type"
+  ]
 }

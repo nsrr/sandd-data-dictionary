@@ -1,6 +1,6 @@
 {
   "id": "session",
-  "display_name": "Session -study session; refers to timepoint of data collection.",
+  "display_name": "Study session; refers to timepoint of data collection.",
   "description": "",
   "type": "choices",
   "domain": "session"

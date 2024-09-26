@@ -1,6 +1,6 @@
 {
   "id": "sbix",
-  "display_name": "sbix -Short burst inactivity index (zero activity of 1 min duration/zero activity of any duration)",
+  "display_name": "Short burst inactivity index (zero activity of 1 min duration/zero activity of any duration)",
   "description": "",
   "type": "numeric"
 }

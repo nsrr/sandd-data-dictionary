@@ -1,0 +1,7 @@
+{
+  "id": "trails_strt",
+  "display_name": "Trail-making test start time.",
+  "description": "",
+  "type": "time",
+  "units": "H:mm"
+}

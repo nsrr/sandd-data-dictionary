@@ -1,0 +1,11 @@
+{
+  "id": "rut5",
+  "display_name": "Rutter Childrens Behaviour Questionnaire (RCBQ): Do you often get worried about things?",
+  "description": "Item from the Rutter Childrens Behaviour Questionnaire (RCBQ).[Rutter M., 1967 (PubMed ID: 6033260)](https://pubmed.ncbi.nlm.nih.gov/6033260/)<br><br> [Search for all Rutter Childrens Behaviour Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=rcbq)<br><br>Original text: This question asks about your general well-being over the LAST 2 WEEKS.  Please check only one answer (YES or NO) for each item.",
+  "type": "choices",
+  "domain": "rut",
+  "labels": [
+    "rcbq",
+    "rcbq_05worry"
+  ]
+}

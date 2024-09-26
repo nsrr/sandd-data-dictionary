@@ -1,6 +1,6 @@
 {
   "id": "adi6h",
-  "display_name": "Do you use any of the following drugs? ",
+  "display_name": "Do you use any of the following drugs? -Response to Hallucinogens",
   "description": "",
   "type": "choices",
   "domain": "yes1_no0"

@@ -1,7 +1,12 @@
 {
   "id": "smith12",
-  "display_name": "smith12 -How long a time does it usually take before you Ãrecover your sensesÃ in the morning after rising from a nightÃs sleep?",
-  "description": "",
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): How long a time does it usually take before you \"recover your senses\" in the morning after rising from a night's sleep?",
+  "description": "Item from the Smith Morningness-Eveningness Questionnaire. [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
   "type": "choices",
-  "domain": "smith12"
+  "domain": "smith12",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_12recover"
+  ]
 }

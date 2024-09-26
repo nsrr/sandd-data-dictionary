@@ -1,0 +1,12 @@
+{
+  "id": "owl7",
+  "display_name": "SuperScience Morningness and Eveningness Scale (SSMES): How alert are you in the first half hour you're up?",
+  "description": "Item from Sleep for Science Questionnaire SuperScience Morningness and Eveningness Scale. [Carskadon MA et al., 1993 (PubMed ID: 8506460)](https://pubmed.ncbi.nlm.nih.gov/8506460/)<br><br> [Search for all SuperScience Morningness and Eveningness Scale variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=ssmes)<br><br>Original text: Please check the single best answer to every question based on your bodyÕs Òfeeling bestÓ times during the most recent two weeks. ",
+  "type": "choices",
+  "domain": "owl7",
+  "labels": [
+    "ssmes",
+    "chronotype",
+    "ssmes_07alert"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "id": "height_physexam",
-  "display_name": "height_physexam - ppts height as recorded on physical exam form during tanner assessment",
-  "description": "",
+  "display_name": "Participant's height",
+  "description": "height_physexam - ppts height as recorded on physical exam form during tanner assessment",
   "type": "numeric",
   "units": "inches (in)"
 }

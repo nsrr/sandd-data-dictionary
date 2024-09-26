@@ -1,7 +1,12 @@
 {
   "id": "smith8",
-  "display_name": "smith8 -You wish to be at your peak performance for a test which you know is going to be mentally exhausting and lasting two hours. ... which ONE of the four testing times would you choose?",
-  "description": "",
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): You wish to be at your peak performance for a test which you know is going to be mentally exhausting and lasting two hours. ... which ONE of the four testing times would you choose?",
+  "description": "Item from the Smith Morningness-Eveningness Questionnaire. [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
   "type": "choices",
-  "domain": "smith8"
+  "domain": "smith8",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_08performance"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "seff",
-  "display_name": "seff -Sleep efficiency (100 * Sleep minutes/Duration)",
+  "display_name": "Sleep efficiency (100 * Sleep minutes/Duration)",
   "description": "",
   "type": "numeric"
 }

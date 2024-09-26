@@ -1,7 +1,12 @@
 {
   "id": "smith10r",
-  "display_name": "smith10r -smith item 10 -time rise workday- reverse coded per scoring key/algorithm for scoring smith",
-  "description": "",
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): When would you prefer to rise (provided you have a full day of work- 8 hours) if you were totally free to arrange your time?",
+  "description": "Item from the Smith Morningness-Eveningness Questionnaire. Item 1,2,6,7,8,9,10,12,13 are reverse coded. [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
   "type": "choices",
-  "domain": "smith10r"
+  "domain": "smith10r",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_10rise"
+  ]
 }

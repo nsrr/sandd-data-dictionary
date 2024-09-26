@@ -1,6 +1,6 @@
 {
   "id": "effort",
-  "display_name": "How much of an effort is it to do anything? 0 [very little] - 100 [very much]",
-  "description": "",
+  "display_name": "How much of an effort is it to do anything?",
+  "description": "0 [very little] - 100 [very much]",
   "type": "numeric"
 }

@@ -1,7 +1,12 @@
 {
   "id": "smith13r",
-  "display_name": "smith13r -smith item 13 -morning or evening individual- reverse coded per scoring key/algorithm for scoring smith",
-  "description": "",
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): Please indicate to what extent you are a morning or evening individual.",
+  "description": "Item from the Smith Morningness-Eveningness Questionnaire. Item 1,2,6,7,8,9,10,12,13 are reverse coded. [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
   "type": "choices",
-  "domain": "smith13r"
+  "domain": "smith13r",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_13extent"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "season_demsfile",
-  "display_name": "season_demsfile -variable in original demographics file defining season",
+  "display_name": "Variable in original demographics file defining season",
   "description": "",
   "type": "choices",
   "domain": "season"

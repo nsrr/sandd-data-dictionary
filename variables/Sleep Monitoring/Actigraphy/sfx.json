@@ -1,6 +1,6 @@
 {
   "id": "sfx",
-  "display_name": "sfx -Sleep fragmentation index (number of awakenings/total sleep time [mins] * 100)",
+  "display_name": "Sleep fragmentation index (number of awakenings/total sleep time [mins] * 100)",
   "description": "",
   "type": "numeric"
 }

@@ -1,6 +1,6 @@
 {
   "id": "amed",
-  "display_name": "amed -Activity Median - Median activity score ",
+  "display_name": "Activity Median - Median activity score ",
   "description": "",
   "type": "numeric",
   "units": "counts"

@@ -1,0 +1,7 @@
+{
+  "id": "rey_copy_time",
+  "display_name": "Rey Copy time to completion.",
+  "description": "",
+  "type": "time",
+  "units": "H:mm"
+}

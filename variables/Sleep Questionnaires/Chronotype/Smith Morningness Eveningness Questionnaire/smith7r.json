@@ -1,7 +1,12 @@
 {
   "id": "smith7r",
-  "display_name": "smith7r -smith item 7 -time tired for bed- reverse coded per scoring key/algorithm for scoring smith",
-  "description": "",
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): At what time in the evening do you feel tired and, as a result, in need of sleep?",
+  "description": "Item from the Smith Morningness-Eveningness Questionnaire. Item 1,2,6,7,8,9,10,12,13 are reverse coded. [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
   "type": "choices",
-  "domain": "smith7r"
+  "domain": "smith7r",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_07evening"
+  ]
 }

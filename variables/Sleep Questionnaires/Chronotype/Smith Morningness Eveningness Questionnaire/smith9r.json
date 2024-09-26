@@ -1,7 +1,12 @@
 {
   "id": "smith9r",
-  "display_name": "smith9r -smith item 9 -morning or evening type- reverse coded per scoring key/algorithm for scoring smith",
-  "description": "",
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): One hears about \"morning\" and \"evening\" types of people.  Which ONE of these types do you consider yourself to be?",
+  "description": "Item from the Smith Morningness-Eveningness Questionnaire. Item 1,2,6,7,8,9,10,12,13 are reverse coded. [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
   "type": "choices",
-  "domain": "smith9r"
+  "domain": "smith9r",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_09type"
+  ]
 }

@@ -1,0 +1,10 @@
+{
+  "id": "rcmas_sum",
+  "display_name": "Revised Children's Manifest Anxiety Scale (RCMAS): Total anxiety score",
+  "description": "Calculated - Summary score of the Revised Children's Manifest Anxiety Scale (RCMAS), a 37-item self-report questionnaire designed to obtain information from children concerning their feelings of anxiety across several dimensions. The score is the sum of items 1, 2, 3, 5, 6, 7, 9, 10, 11, 13, 14, 15, 17, 18, 19, 21, 22, 23, 25, 26, 27, 29, 30, 31, 33, 34, 35, and 37 from four subscales (i.e., physiological anxiety, worry, social anxiety and defensiveness), with possible range of 0 to 28. Higher scores indicate a greater level of anxiety. T-scores greater than 60 indicate respondent has some difficulties with anxiety. [Reynolds, C.R., and Richmond, B.O. (1985). Revised Children's Manifest Anxiety Scale. RCMAS Manual. Los Angeles: Western Psychological Services](https://doi.org/10.1177/073428298700500110)<br><br>[Search for all RCMAS variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=rcmas)",
+  "type": "numeric",
+  "labels": [
+    "rcmas",
+    "rcmas_score"
+  ]
+}

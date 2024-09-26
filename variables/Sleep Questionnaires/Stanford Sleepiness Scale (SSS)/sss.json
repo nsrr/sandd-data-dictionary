@@ -1,6 +1,11 @@
 {
   "id": "sss",
   "display_name": "Stanford Sleepiness Scale 1 - 7 with descriptions. How do you feel?",
-  "description": "",
-  "type": "numeric"
+  "description": "Score from Stanford Sleepiness Scale (SSS). A subjective measure of sleepiness from 1-7, where higher scores indicate more sleepiness (Hoddes, E., & Dement, W. Z. V (1972). The development and use of the Stanford Sleepiness Scale (SSS). Psychophysiology, 9, 150.) <br><br>[Search for all Stanford Sleepiness Scale variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=sss)",
+  "type": "numeric",
+  "labels": [
+    "sss",
+    "sss_total",
+    "subjective_sleepiness"
+  ]
 }

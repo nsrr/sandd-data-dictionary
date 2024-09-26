@@ -1,7 +1,12 @@
 {
   "id": "smith5",
-  "display_name": "smith5 -During the first half hour after having awakened in the morning, how tired do you feel?",
-  "description": "",
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): During the first half hour after having awakened in the morning, how tired do you feel?",
+  "description": "Item from the Smith Morningness-Eveningness Questionnaire. [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
   "type": "choices",
-  "domain": "smith5"
+  "domain": "smith5",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_05tired"
+  ]
 }

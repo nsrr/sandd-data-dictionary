@@ -1,7 +1,12 @@
 {
   "id": "smith6r",
-  "display_name": "smith6r -smith item 6 -time exercise- reverse coded per scoring key/algorithm for scoring smith",
-  "description": "",
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): You have decided to engage in some physical exercise. A friend suggests that you do this one hour twice a week and the best time for him is 7:00-8:00 am. ...how do you think you would perform?",
+  "description": "Item from the Smith Morningness-Eveningness Questionnaire. Item 1,2,6,7,8,9,10,12,13 are reverse coded. [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
   "type": "choices",
-  "domain": "smith6r"
+  "domain": "smith6r",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_06exercise"
+  ]
 }

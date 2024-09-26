@@ -1,6 +1,6 @@
 {
   "id": "amean",
-  "display_name": "amean -Activity Mean -Average activity score",
+  "display_name": "Activity Mean -Average activity score",
   "description": "",
   "type": "numeric",
   "units": "counts"

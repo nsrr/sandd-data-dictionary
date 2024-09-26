@@ -1,6 +1,6 @@
 {
   "id": "bad",
-  "display_name": "bad -Bad Epochs - Total epochs marked as bad",
+  "display_name": "Bad Epochs - Total epochs marked as bad",
   "description": "",
   "type": "numeric"
 }

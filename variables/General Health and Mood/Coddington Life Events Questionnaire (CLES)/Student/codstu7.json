@@ -1,0 +1,11 @@
+{
+  "id": "codstu7",
+  "display_name": "Coddington Life Events Questionnaire (STUDENT): There has been an upward change in the familyÕs financial status during the past year",
+  "description": "Item from the Coddington Life Events Questionnaire (CLES), a self-report measure that helps determine how specific events have affected a childÕs personal growth and adjustment. [Coddington. (PMID: 5072914)](https://pubmed.ncbi.nlm.nih.gov/5072914/)<br><br>[Search for all CLES variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=cles)",
+  "type": "choices",
+  "domain": "yes1_no0",
+  "labels": [
+    "cles",
+    "cles_07upward"
+  ]
+}

@@ -1,7 +1,0 @@
-{
-  "id": "verif_2p",
-  "display_name": "Verif_2P *Data verified via 2-person error check?",
-  "description": "",
-  "type": "choices",
-  "domain": "yes1_no0"
-}

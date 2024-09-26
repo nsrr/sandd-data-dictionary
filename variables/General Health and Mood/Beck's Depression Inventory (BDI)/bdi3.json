@@ -1,0 +1,12 @@
+{
+  "id": "bdi3",
+  "display_name": "Beck's Depression Inventory (BDI): Past failure",
+  "description": "Item from the Beck's Depression Inventory (BDI), a 21-item, self-report rating inventory that measures characteristic attitudes and symptoms of depression.  [Beck's, et al., 1961 (PubMed ID: 13688369)](https://pubmed.ncbi.nlm.nih.gov/13688369/)<br><br> [Search for all BDI variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=bdi)",
+  "type": "choices",
+  "domain": "bdi3",
+  "labels": [
+    "bdi",
+    "depression",
+    "bdi_03failure"
+  ]
+}

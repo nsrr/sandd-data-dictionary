@@ -1,7 +1,7 @@
 {
   "id": "female_yesno",
-  "display_name": "Female_yesno -participant is female, yes or no. Variable to identify participant's gender.",
-  "description": "",
+  "display_name": "Participant's gender",
+  "description": "Whether or not the participant is female.",
   "type": "choices",
   "domain": "sex"
 }

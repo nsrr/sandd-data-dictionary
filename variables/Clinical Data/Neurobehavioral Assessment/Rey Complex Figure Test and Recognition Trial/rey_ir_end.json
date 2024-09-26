@@ -1,0 +1,7 @@
+{
+  "id": "rey_ir_end",
+  "display_name": "Rey Immediate Recall end time.",
+  "description": "",
+  "type": "time",
+  "units": "H:mm"
+}

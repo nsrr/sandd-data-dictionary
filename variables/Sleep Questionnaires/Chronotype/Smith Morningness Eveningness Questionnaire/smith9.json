@@ -1,7 +1,12 @@
 {
   "id": "smith9",
-  "display_name": "smith9 -One hears about ÃmorningÃ and ÃeveningÃ types of people.  Which ONE of these types do you consider yourself to be?",
-  "description": "",
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): One hears about \"morning\" and \"evening\" types of people.  Which ONE of these types do you consider yourself to be?",
+  "description": "Item from the Smith Morningness-Eveningness Questionnaire. [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
   "type": "choices",
-  "domain": "smith9"
+  "domain": "smith9",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_09type"
+  ]
 }

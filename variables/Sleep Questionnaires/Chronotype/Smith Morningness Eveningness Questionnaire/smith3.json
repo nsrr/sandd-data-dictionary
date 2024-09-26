@@ -1,7 +1,12 @@
 {
   "id": "smith3",
-  "display_name": "smith3 -Assuming normal circumstances, how easy do you find getting up in the morning?",
-  "description": "",
+  "display_name": "Smith Morningness-Eveningness Questionnaire (SMEQ): Assuming normal circumstances, how easy do you find getting up in the morning?",
+  "description": "Item from the Smith Morningness-Eveningness Questionnaire. [Smith CS et al., 1989 (PubMed ID: 2793773)](https://pubmed.ncbi.nlm.nih.gov/2793773/)<br><br> [Search for all Smith Morningness-Eveningness Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=smeq)",
   "type": "choices",
-  "domain": "smith3"
+  "domain": "smith3",
+  "labels": [
+    "smeq",
+    "chronotype",
+    "smeq_03easy"
+  ]
 }

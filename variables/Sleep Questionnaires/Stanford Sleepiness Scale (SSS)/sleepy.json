@@ -1,6 +1,6 @@
 {
   "id": "sleepy",
-  "display_name": "How sleepy do you feel? 0 [very little] - 100 [very much]",
-  "description": "",
+  "display_name": "How sleepy do you feel?",
+  "description": "0 [very little] - 100 [very much]",
   "type": "numeric"
 }

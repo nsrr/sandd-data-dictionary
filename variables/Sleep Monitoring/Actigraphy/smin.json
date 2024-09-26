@@ -1,6 +1,6 @@
 {
   "id": "smin",
-  "display_name": "smin -Sleep Minutes -Total minutes scored as sleep during the interval",
+  "display_name": "Sleep Minutes -Total minutes scored as sleep during the interval",
   "description": "",
   "type": "numeric"
 }

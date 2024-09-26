@@ -1,0 +1,11 @@
+{
+  "id": "rcmas21",
+  "display_name": "Revised Children's Manifest Anxiety Scale (RCMAS): I am tired a lot.",
+  "description": "Item from the Revised Children's Manifest Anxiety Scale, a 37-item, self-report instrument designed to assess the level and nature of anxiety. [Reynolds, C.R., and Richmond, B.O. (1985). Revised Children's Manifest Anxiety Scale. RCMAS Manual. Los Angeles: Western Psychological Services](https://doi.org/10.1177/073428298700500110)<br><br>[Search for all RCMAS variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=rcmas)",
+  "type": "choices",
+  "domain": "yes1_no0",
+  "labels": [
+    "rcmas",
+    "rcmas_21tired"
+  ]
+}

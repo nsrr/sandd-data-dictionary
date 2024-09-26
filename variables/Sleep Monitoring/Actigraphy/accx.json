@@ -1,6 +1,6 @@
 {
   "id": "accx",
-  "display_name": "accx -Acceleration index (change in activity rate during interval)",
+  "display_name": "Acceleration index (change in activity rate during interval)",
   "description": "",
   "type": "numeric"
 }
