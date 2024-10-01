@@ -1,7 +1,7 @@
 {
   "id": "cesd_tot2",
   "display_name": "Center for Epidemiologic Studies Depression Scale: Sum of 20 items (missings item allowed while 14/20 items required)",
-  "description": "Total score from the CESD Questionnaire. A higher score indicates more severe symptoms. [Radloff, L. S. (1977). The CES-D Scale: A Self-Report Depression Scale for Research in the General Population. Applied Psychological Measurement, 1(3), 385Ð401.](https://doi.org/10.1177/014662167700100306)<br><br>[Search for all CESD Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=cesd)",
+  "description": "Total score from the CESD Questionnaire. A higher score indicates more severe symptoms. [Radloff, L. S. (1977). The CES-D Scale: A Self-Report Depression Scale for Research in the General Population. Applied Psychological Measurement, 1(3), 385Ã401.](https://doi.org/10.1177/014662167700100306)<br><br>[Search for all CESD Questionnaire variables within this dataset](https://sleepdata.org/datasets/sandd/variables?search=cesd)",
   "type": "numeric",
   "labels": [
     "cesd",

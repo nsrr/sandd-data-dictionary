@@ -2,5 +2,8 @@
   "id": "calm",
   "display_name": "How calm do you feel?",
   "description": "0 [very little] - 100 [very much]",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sleep_related_impairment"
+  ]
 }
