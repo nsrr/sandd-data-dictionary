@@ -1,6 +1,6 @@
 {
   "id": "sday_actig",
-  "display_name": "Ffrom scored actigraphy data file: Start Day of actigraphy collection for this session; day of the week",
+  "display_name": "From scored actigraphy data file: Start Day of actigraphy collection for this session; day of the week",
   "description": "",
   "type": "string"
 }
