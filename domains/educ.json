@@ -1,0 +1,42 @@
+[
+  {
+    "value": "1",
+    "display_name": "Less than seventh grade",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Junior high school (through 9th grade)",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Partial high school (10th or 11th grade)",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "High school or trade school graduate",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Some college (at least 1 year) or other specialized training",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "College or university graduate",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Graduate or professional school degree",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Not applicable",
+    "description": ""
+  }
+]

@@ -1,6 +1,7 @@
 {
   "id": "educ1",
-  "display_name": "Fathers educational level",
-  "description": "Q#; 1-8, a=1, b=2, c=3, d=4, e=5, f=6, g=7, h=8",
-  "type": "integer"
+  "display_name": "Father's educational level",
+  "description": "",
+  "type": "choices",
+  "domain": "educ"
 }
