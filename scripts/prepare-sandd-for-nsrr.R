@@ -17,11 +17,11 @@ names(data_frames) <- tools::file_path_sans_ext(basename(sav_files))
 #rename variables
 data_frames[["S&D S1 BDI_Scored_DeID 3.20.24"]] <- data_frames[["S&D S1 BDI_Scored_DeID 3.20.24"]] %>%
   rename(bdi_score2 = bdi_score.)
-data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 8.22.24"]] <- data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 8.22.24"]] %>%
+data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 1.12.25.sav"]] <- data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 1.12.25.sav"]] %>%
   rename(SHS_PDS_score2 = SHS_PDS_score.)
-data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 8.22.24"]] <- data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 8.22.24"]] %>%
+data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 1.12.25.sav"]] <- data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 1.12.25.sav"]] %>%
   rename(SMITH_TOT2 = SMITH_TOT.)
-data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 8.22.24"]] <- data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 8.22.24"]] %>%
+data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 1.12.25.sav"]] <- data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 1.12.25.sav"]] %>%
   rename(SHS_Pubertal_Category2 = SHS_Pubertal_Category.)
 data_frames[["S&D S1 Mood_sleepiness_DeID 3.21.24"]] <- data_frames[["S&D S1 Mood_sleepiness_DeID 3.21.24"]] %>%
   rename(Mood_Year_Study = Year_Study)
@@ -36,14 +36,14 @@ data_frames[["S&D S1 ScoredActigraphy_withSessionSeason_DeID 3.19.24"]] <- data_
 data_frames[["S&D S1 CESD_Scored_DeID 6.25.24"]] <- data_frames[["S&D S1 CESD_Scored_DeID 6.25.24"]] %>%
   rename(cesd_TOT2 = cesd_TOT.)
 
-if ("S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 8.22.24" %in% names(data_frames)) {
-  data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 8.22.24"]] <- data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 8.22.24"]]
-  data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 8.22.24"]]$Session <- ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 8.22.24"]]$Session == "Initial/Baseline", "1",
-                       ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 8.22.24"]]$Session == "6 mo [.5]", "2",
-                              ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 8.22.24"]]$Session == "12 mo [1 yr]", "3",
-                                     ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 8.22.24"]]$Session == "18 mo [1.5 yr]", "4",
-                                            ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 8.22.24"]]$Session == "24 mo [2 yr]", "5",
-                                                   ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 8.22.24"]]$Session == "30 mo [2.5 yr]", "6", data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 8.22.24"]]$Session)
+if ("S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 1.12.25.sav" %in% names(data_frames)) {
+  data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 1.12.25.sav"]] <- data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 1.12.25.sav"]]
+  data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 1.12.25.sav"]]$Session <- ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 1.12.25.sav"]]$Session == "Initial/Baseline", "1",
+                       ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 1.12.25.sav"]]$Session == "6 mo [.5]", "2",
+                              ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 1.12.25.sav"]]$Session == "12 mo [1 yr]", "3",
+                                     ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 1.12.25.sav"]]$Session == "18 mo [1.5 yr]", "4",
+                                            ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 1.12.25.sav"]]$Session == "24 mo [2 yr]", "5",
+                                                   ifelse(data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 1.12.25.sav"]]$Session == "30 mo [2.5 yr]", "6", data_frames[["S&D S1 Dems_Scores_dlmo_ETOHhx_season_pds_DeID 1.12.25.sav"]]$Session)
                                             )
                                      )
                               )
