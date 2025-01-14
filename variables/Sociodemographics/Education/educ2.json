@@ -3,5 +3,5 @@
   "display_name": "Mother's educational level",
   "description": "",
   "type": "choices",
-  "domain": "educ"
+  "domain": "educ2"
 }
