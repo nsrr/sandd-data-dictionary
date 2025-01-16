@@ -7,6 +7,7 @@
   "labels": [
     "cesd",
     "depression",
-    "cesd_02appetite"
+    "cesd_02appetite",
+    "sandd_CESD_Scored_DeID"
   ]
 }

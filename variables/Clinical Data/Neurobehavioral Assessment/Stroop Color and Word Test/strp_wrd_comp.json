@@ -2,5 +2,8 @@
   "id": "strp_wrd_comp",
   "display_name": "Total complete word reading on the Stroop task (TEST PAGE 1 - Word Reading).",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

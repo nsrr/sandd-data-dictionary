@@ -3,5 +3,8 @@
   "display_name": "druguse -Endorse drug use y/n.",
   "description": "",
   "type": "choices",
-  "domain": "drug_yes1_no0"
+  "domain": "drug_yes1_no0",
+  "labels": [
+    "sandd_ADI_cleaned_DeID"
+  ]
 }

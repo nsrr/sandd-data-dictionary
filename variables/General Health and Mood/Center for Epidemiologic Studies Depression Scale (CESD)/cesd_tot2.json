@@ -6,6 +6,7 @@
   "labels": [
     "cesd",
     "depression",
-    "cesd_total"
+    "cesd_total",
+    "sandd_CESD_Scored_DeID"
   ]
 }

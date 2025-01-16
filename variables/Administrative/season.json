@@ -3,5 +3,8 @@
   "display_name": "Season at time of dems data collection; calculated using defined dates for start and end of each season in each year of study",
   "description": "",
   "type": "choices",
-  "domain": "season"
+  "domain": "season",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

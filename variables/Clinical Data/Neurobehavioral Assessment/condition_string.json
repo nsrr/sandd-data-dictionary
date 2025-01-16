@@ -3,5 +3,8 @@
   "display_name": "Condition as string variable. ",
   "description": "",
   "type": "choices",
-  "domain": "condition_string"
+  "domain": "condition_string",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

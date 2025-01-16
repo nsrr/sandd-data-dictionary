@@ -2,5 +2,10 @@
   "id": "year_study",
   "display_name": "Year of study participation. Enrollment began in 2002; every 6 mos follow up continued until last one in 2007.",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "labels": [
+    "sandd_Mood_sleepiness_DeID",
+    "sandd_ScoredActigraphy_withSessionSeason_DeID",
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

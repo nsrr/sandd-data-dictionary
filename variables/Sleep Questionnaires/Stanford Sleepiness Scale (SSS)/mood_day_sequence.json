@@ -2,5 +2,8 @@
   "id": "mood_day_sequence",
   "display_name": "Variable to identify order of data collection days for each session 1 is first day of inlab session, then numbers are continuous for rest of that session. To sort in order of administration sort by: ID, Session, day_sequence.",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_Mood_sleepiness_DeID"
+  ]
 }

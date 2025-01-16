@@ -6,6 +6,7 @@
   "domain": "yes1_no0",
   "labels": [
     "rcmas",
-    "rcmas_07afraid"
+    "rcmas_07afraid",
+    "sandd_RCMAS_DeID"
   ]
 }

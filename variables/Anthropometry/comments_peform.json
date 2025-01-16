@@ -2,5 +2,8 @@
   "id": "comments_peform",
   "display_name": "Comments",
   "description": "Study team comments re tanner staging assessment recorded on physical exam form",
-  "type": "text"
+  "type": "text",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

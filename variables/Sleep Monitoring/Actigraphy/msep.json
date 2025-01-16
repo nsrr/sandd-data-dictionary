@@ -3,5 +3,8 @@
   "display_name": "Mean Sleep Episode - Mean duration of sleep episodes",
   "description": "",
   "type": "numeric",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

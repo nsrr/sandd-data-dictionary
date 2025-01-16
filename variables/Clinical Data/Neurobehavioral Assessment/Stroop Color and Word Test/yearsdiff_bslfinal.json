@@ -3,5 +3,8 @@
   "display_name": "Difference in time between baseline admin and final admin; in years with decimal",
   "description": "",
   "type": "numeric",
-  "units": "years"
+  "units": "years",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

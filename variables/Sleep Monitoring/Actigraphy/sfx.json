@@ -2,5 +2,8 @@
   "id": "sfx",
   "display_name": "Sleep fragmentation index (number of awakenings/total sleep time [mins] * 100)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

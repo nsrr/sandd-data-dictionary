@@ -2,5 +2,8 @@
   "id": "tannero",
   "display_name": "Assessed tanner stage (other characteristics)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

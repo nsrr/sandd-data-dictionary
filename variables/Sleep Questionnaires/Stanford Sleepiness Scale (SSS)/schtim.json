@@ -3,5 +3,8 @@
   "display_name": "Scheduled start time for ss admin per study protocols.",
   "description": "",
   "type": "time",
-  "units": "H:mm"
+  "units": "H:mm",
+  "labels": [
+    "sandd_Mood_sleepiness_DeID"
+  ]
 }

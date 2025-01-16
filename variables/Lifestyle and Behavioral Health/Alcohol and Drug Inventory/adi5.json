@@ -3,5 +3,8 @@
   "display_name": "In your lifetime, have you ever been \"drunk,\" \"wasted,\" \"loaded,\" or \"high\" from drinking BEER, LIQUOR, or WINE?",
   "description": "",
   "type": "choices",
-  "domain": "yes_no_never"
+  "domain": "yes_no_never",
+  "labels": [
+    "sandd_ADI_cleaned_DeID"
+  ]
 }

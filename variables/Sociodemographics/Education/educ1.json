@@ -3,5 +3,8 @@
   "display_name": "Father's educational level",
   "description": "",
   "type": "choices",
-  "domain": "educ"
+  "domain": "educ",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

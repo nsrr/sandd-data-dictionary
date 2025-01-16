@@ -2,5 +2,8 @@
   "id": "smin",
   "display_name": "Sleep Minutes -Total minutes scored as sleep during the interval",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

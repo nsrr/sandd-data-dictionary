@@ -3,5 +3,8 @@
   "display_name": "In your lifetime, on how many occasions have you had a drink of BEER, LIQUOR, or WINE?",
   "description": "",
   "type": "choices",
-  "domain": "adi3"
+  "domain": "adi3",
+  "labels": [
+    "sandd_ADI_cleaned_DeID"
+  ]
 }

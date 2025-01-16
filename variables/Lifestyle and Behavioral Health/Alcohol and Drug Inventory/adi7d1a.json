@@ -2,5 +2,8 @@
   "id": "adi7d1a",
   "display_name": "How much drug per occasion drug1 - # of times used per day, on average",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ADI_cleaned_DeID"
+  ]
 }

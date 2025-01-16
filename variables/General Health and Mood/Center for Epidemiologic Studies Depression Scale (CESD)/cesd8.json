@@ -7,6 +7,7 @@
   "labels": [
     "cesd",
     "depression",
-    "cesd_08hopeful"
+    "cesd_08hopeful",
+    "sandd_CESD_Scored_DeID"
   ]
 }

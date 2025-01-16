@@ -7,6 +7,7 @@
   "labels": [
     "bdi",
     "depression",
-    "bdi_16sleep"
+    "bdi_16sleep",
+    "sandd_BDI_Scored_DeID"
   ]
 }

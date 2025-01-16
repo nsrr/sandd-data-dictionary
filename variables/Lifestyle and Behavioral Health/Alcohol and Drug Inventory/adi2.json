@@ -3,5 +3,8 @@
   "display_name": "Has your experience with alcohol been only during religious ceremonies?",
   "description": "",
   "type": "choices",
-  "domain": "yes_no_never"
+  "domain": "yes_no_never",
+  "labels": [
+    "sandd_ADI_cleaned_DeID"
+  ]
 }

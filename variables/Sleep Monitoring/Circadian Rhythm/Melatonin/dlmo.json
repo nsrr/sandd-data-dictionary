@@ -2,5 +2,8 @@
   "id": "dlmo",
   "display_name": "Assessed dim light melatonin onset via saliva samples collected serially and then assayed for melatonin values [threshold = 4pg/ml] in decimalized clocktime",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

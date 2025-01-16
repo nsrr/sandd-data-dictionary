@@ -2,5 +2,8 @@
   "id": "eday",
   "display_name": "End Day - End of sleep interval - day of the week",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

@@ -4,6 +4,7 @@
   "description": "0 [very little] - 100 [very much]",
   "type": "numeric",
   "labels": [
-    "sleep_related_impairment"
+    "sleep_related_impairment",
+    "sandd_Mood_sleepiness_DeID"
   ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Activity Mean -Average activity score",
   "description": "",
   "type": "numeric",
-  "units": "counts"
+  "units": "counts",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

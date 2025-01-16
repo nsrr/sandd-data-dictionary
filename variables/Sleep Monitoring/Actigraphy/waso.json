@@ -2,5 +2,8 @@
   "id": "waso",
   "display_name": "Wake After Sleep Onset - Wake min during O-O interval",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

@@ -2,5 +2,8 @@
   "id": "reyir10",
   "display_name": "Rey Immediate Recall: Detail #10.",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

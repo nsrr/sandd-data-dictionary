@@ -2,5 +2,8 @@
   "id": "sbix",
   "display_name": "Short burst inactivity index (zero activity of 1 min duration/zero activity of any duration)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

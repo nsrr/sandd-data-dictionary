@@ -2,5 +2,8 @@
   "id": "adi7d2a",
   "display_name": "How much drug per occasion drug2",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ADI_cleaned_DeID"
+  ]
 }

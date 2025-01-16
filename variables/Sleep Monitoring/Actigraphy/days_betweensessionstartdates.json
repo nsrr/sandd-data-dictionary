@@ -3,5 +3,8 @@
   "display_name": "Variable to identify span of days from start of this sessions actigraphy days to the start of the previous sessions [startdate this session minus startdate of previous session]",
   "description": "",
   "type": "numeric",
-  "units": "days"
+  "units": "days",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

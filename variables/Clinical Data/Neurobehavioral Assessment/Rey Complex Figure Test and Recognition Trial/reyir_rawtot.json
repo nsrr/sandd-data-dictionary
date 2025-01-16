@@ -2,5 +2,8 @@
   "id": "reyir_rawtot",
   "display_name": "Rey Immediate Recall total score.",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

@@ -2,5 +2,8 @@
   "id": "slat",
   "display_name": "Sleep onset latency",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

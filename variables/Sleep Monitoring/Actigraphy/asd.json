@@ -2,5 +2,8 @@
   "id": "asd",
   "display_name": "Activity SD - Standard deviation of activity mean",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

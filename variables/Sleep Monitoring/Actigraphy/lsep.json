@@ -2,5 +2,8 @@
   "id": "lsep",
   "display_name": "Long sleep episodes - Number of Sleep Episodes >= duration in Options: Sleep: Sleep Statistics Criteria text box",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

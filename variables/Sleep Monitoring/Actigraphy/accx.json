@@ -2,5 +2,8 @@
   "id": "accx",
   "display_name": "Acceleration index (change in activity rate during interval)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

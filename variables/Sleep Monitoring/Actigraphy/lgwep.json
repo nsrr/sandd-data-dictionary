@@ -3,5 +3,8 @@
   "display_name": "Longest Wake Episode - Duration of longest wake episode",
   "description": "",
   "type": "numeric",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

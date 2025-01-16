@@ -97,6 +97,9 @@ names(mood_sleepy_data) <- tolower(names(mood_sleepy_data))
 merged_data2 <- subset(merged_data2, select = -c(study_name, rey_tester))
 actigraphy_data <- subset(actigraphy_data, select = -c(actmode))
 
+names(mood_sleepy_data)[names(mood_sleepy_data) == "days_numbersincefirstsessionstart"] <- "days_numfirstsessionstart"
+merged_data2$sleepcond_dlmo <- NULL 
+
 write.csv(merged_data2, file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/0.1.0.pre/sandd-dataset-0.1.0.pre.csv", row.names = FALSE, na='')
 write.csv(mood_sleepy_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/0.1.0.pre/sandd-mood-0.1.0.pre.csv", row.names = FALSE, na='')
 write.csv(actigraphy_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/0.1.0.pre/sandd-scoredactigraphy-0.1.0.pre.csv", row.names = FALSE, na='')
@@ -131,3 +134,25 @@ harmonized_data<-merged_data2[,c("id", "session","agedec_stdate","race","female_
 
 write.csv(harmonized_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/0.1.0.pre/sandd-harmonized-dataset-0.1.0.csv", row.names = FALSE, na='')
 
+
+
+variables <- read.csv("/Users/isabellaliu/Desktop/variables.csv")
+dataset_values <- ifelse(is.na(variables$dataset), "", variables$dataset)
+
+# Reset labels to their original state before merging
+original_labels <- variables$labels
+
+# Combine values based on whether original label exists
+variables$labels <- ifelse(
+  is.na(original_labels) | original_labels == "", 
+  dataset_values,  # if no original label, just use dataset value
+  ifelse(
+    dataset_values == "",  # if no dataset value
+    original_labels,       # keep original label only
+    paste(original_labels, dataset_values, sep = ";")  # combine both
+  )
+)
+
+# Remove any leading semicolons that might still exist
+variables$labels <- sub("^;", "", variables$labels)
+variables$dataset <- NULL

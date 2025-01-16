@@ -2,5 +2,8 @@
   "id": "lwep",
   "display_name": "Long wake episodes (wake episodes greater than or equal to 5 min [value specified in W2 program Options:Sleep:Sleep Statistics Criteria])",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

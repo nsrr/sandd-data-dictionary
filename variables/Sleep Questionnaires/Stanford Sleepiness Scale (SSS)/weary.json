@@ -5,6 +5,7 @@
   "type": "numeric",
   "labels": [
     "sleep_related_impairment",
-    "SleepHealth_satisfaction"
+    "SleepHealth_satisfaction",
+    "sandd_Mood_sleepiness_DeID"
   ]
 }

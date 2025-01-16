@@ -3,5 +3,8 @@
   "display_name": "Mother's educational level",
   "description": "",
   "type": "choices",
-  "domain": "educ2"
+  "domain": "educ2",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

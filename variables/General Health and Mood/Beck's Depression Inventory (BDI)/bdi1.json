@@ -7,6 +7,7 @@
   "labels": [
     "bdi",
     "depression",
-    "bdi_01sad"
+    "bdi_01sad",
+    "sandd_BDI_Scored_DeID"
   ]
 }

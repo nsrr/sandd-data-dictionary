@@ -3,5 +3,8 @@
   "display_name": "Participant's height",
   "description": "height_physexam - ppts height as recorded on physical exam form during tanner assessment",
   "type": "numeric",
-  "units": "inches (in)"
+  "units": "inches (in)",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

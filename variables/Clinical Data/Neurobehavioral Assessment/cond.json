@@ -3,5 +3,8 @@
   "display_name": "Study condition",
   "description": "",
   "type": "choices",
-  "domain": "cond"
+  "domain": "cond",
+  "labels": [
+    "sandd_Mood_sleepiness_DeID"
+  ]
 }

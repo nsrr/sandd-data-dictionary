@@ -3,5 +3,17 @@
   "display_name": "Study session; refers to timepoint of data collection.",
   "description": "",
   "type": "choices",
-  "domain": "session"
+  "domain": "session",
+  "labels": [
+    "sandd_ADI_cleaned_DelD",
+    "sandd_BDI_Scored_DelD",
+    "sandd_CESD_Scored_DelD",
+    "sandd_Coddington Parent_DelD",
+    " sand_Coddington Student_DelD",
+    "\nsandd_Dems_ Scores dimo_ ETOHhx_ season_ pds_DelD",
+    "sandd_Mood_sleepiness_DelD",
+    "sandd_NeuropsychTestingData_DelD",
+    "sandd_RCMAS_DelD",
+    "sandd_ScoredActigraphy_withSessionSeason_DelD"
+  ]
 }

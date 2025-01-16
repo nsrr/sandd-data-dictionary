@@ -2,5 +2,8 @@
   "id": "reyc12",
   "display_name": "Rey Copy: Detail #12.",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

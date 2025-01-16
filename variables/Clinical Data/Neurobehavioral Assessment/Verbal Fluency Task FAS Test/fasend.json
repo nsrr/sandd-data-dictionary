@@ -3,5 +3,8 @@
   "display_name": "Verbal Fluency Test-FAS end time.",
   "description": "",
   "type": "time",
-  "units": "H:mm"
+  "units": "H:mm",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

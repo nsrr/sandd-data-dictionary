@@ -3,5 +3,8 @@
   "display_name": "Season/time of year on the first day of this session of actigraphy; season may change during the session depending on the dates defining that season in that year",
   "description": "",
   "type": "choices",
-  "domain": "season"
+  "domain": "season",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

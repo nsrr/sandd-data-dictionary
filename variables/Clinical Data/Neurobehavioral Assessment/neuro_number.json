@@ -2,5 +2,8 @@
   "id": "neuro_number",
   "display_name": "Number of files per ppt in LT's neuropsych spss file.",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

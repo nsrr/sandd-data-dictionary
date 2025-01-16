@@ -3,5 +3,8 @@
   "display_name": "Actual start time for this ss admin",
   "description": "",
   "type": "time",
-  "units": "H:mm"
+  "units": "H:mm",
+  "labels": [
+    "sandd_Mood_sleepiness_DeID"
+  ]
 }

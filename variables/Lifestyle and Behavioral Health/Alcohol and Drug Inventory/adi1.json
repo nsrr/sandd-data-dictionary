@@ -3,5 +3,8 @@
   "display_name": "How often do you drink BEER, LIQUOR, or WINE?",
   "description": "",
   "type": "choices",
-  "domain": "adi1"
+  "domain": "adi1",
+  "labels": [
+    "sandd_ADI_cleaned_DeID"
+  ]
 }

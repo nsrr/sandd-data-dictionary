@@ -3,5 +3,8 @@
   "display_name": "Variable to specify either the absence of etoh disorder in the parents, or if present, in which parent or both.",
   "description": "",
   "type": "choices",
-  "domain": "parent_status"
+  "domain": "parent_status",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

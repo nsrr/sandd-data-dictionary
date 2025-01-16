@@ -2,5 +2,8 @@
   "id": "notes",
   "display_name": "Study team comments regarding the data.",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

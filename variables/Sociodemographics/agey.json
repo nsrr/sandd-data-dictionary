@@ -3,5 +3,8 @@
   "display_name": "Participant's age years portion",
   "description": "From SMAFH. completed prior to inlab",
   "type": "integer",
-  "units": "years"
+  "units": "years",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

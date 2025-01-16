@@ -2,5 +2,8 @@
   "id": "bwr",
   "display_name": "Brief wake ratio: Brief Wakes (duration of 1 min or less) / Number of Awakenings (Wake Episodes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

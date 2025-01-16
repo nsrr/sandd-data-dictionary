@@ -1,7 +1,10 @@
 {
-  "id": "days_numbersincefirstsessionstart",
+  "id": "days_numfirstsessionstart",
   "display_name": "Variable to identify number of days this row of data is from the very first day of their first inlab session; NOTE: most IDs have only session 1 data",
   "description": "",
   "type": "numeric",
-  "units": "days"
+  "units": "days",
+  "labels": [
+    "sandd_Mood_sleepiness_DeID"
+  ]
 }

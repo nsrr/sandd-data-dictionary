@@ -2,5 +2,8 @@
   "id": "id",
   "display_name": "Participant's ID",
   "description": "IDs are 6 digits; however, participants who participated in a previous study in the lab will have an 8-digit ID: 2 digits following their 6-digit study id to indicate previous lab study participation and how many studies [02 at end is one previous study; 03 is two, etc.] ",
-  "type": "identifier"
+  "type": "identifier",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

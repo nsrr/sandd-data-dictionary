@@ -2,5 +2,8 @@
   "id": "actigraphy_year_study",
   "display_name": "Year of study participation",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

@@ -2,5 +2,8 @@
   "id": "sday_actig",
   "display_name": "From scored actigraphy data file: Start Day of actigraphy collection for this session; day of the week",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

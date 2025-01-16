@@ -2,5 +2,8 @@
   "id": "strp_clr_comp",
   "display_name": "Total complete color naming on the Stroop task (TEST PAGE 2- Color naming).",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

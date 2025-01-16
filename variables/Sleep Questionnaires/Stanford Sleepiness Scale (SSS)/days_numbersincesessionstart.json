@@ -3,5 +3,8 @@
   "display_name": "Variable to identify span of days from start of this inlab session to the last day of the same session",
   "description": "",
   "type": "numeric",
-  "units": "days"
+  "units": "days",
+  "labels": [
+    "sandd_Mood_sleepiness_DeID"
+  ]
 }

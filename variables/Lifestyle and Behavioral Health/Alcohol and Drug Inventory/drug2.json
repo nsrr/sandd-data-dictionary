@@ -2,5 +2,8 @@
   "id": "drug2",
   "display_name": "name of 2nd drug checked on page 2 of form: Have you ever used any of the following drugs? (Check all that apply)",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "labels": [
+    "sandd_ADI_cleaned_DeID"
+  ]
 }

@@ -2,5 +2,8 @@
   "id": "strp_int_comp",
   "display_name": "Total complete interference on the Stroop task (TEST PAGE 3- Interference).",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

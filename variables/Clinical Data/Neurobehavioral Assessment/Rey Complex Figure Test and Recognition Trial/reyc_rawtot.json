@@ -2,5 +2,8 @@
   "id": "reyc_rawtot",
   "display_name": "Rey Copy total score.",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

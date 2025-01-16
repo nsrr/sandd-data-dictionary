@@ -3,5 +3,8 @@
   "display_name": "Participant's weight as recorded on physical exam form during tanner assessment",
   "description": "",
   "type": "numeric",
-  "units": "pounds (lb)"
+  "units": "pounds (lb)",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

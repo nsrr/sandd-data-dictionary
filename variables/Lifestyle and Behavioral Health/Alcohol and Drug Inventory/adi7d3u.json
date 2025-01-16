@@ -3,5 +3,8 @@
   "display_name": "How many days per week drug3",
   "description": "",
   "type": "choices",
-  "domain": "drug_how_often"
+  "domain": "drug_how_often",
+  "labels": [
+    "sandd_ADI_cleaned_DeID"
+  ]
 }

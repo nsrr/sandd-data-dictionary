@@ -3,5 +3,8 @@
   "display_name": "Rey Copy percentile Score (From Rey Test booklet form completed by Rey scorer)",
   "description": "",
   "type": "choices",
-  "domain": "rey"
+  "domain": "rey",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

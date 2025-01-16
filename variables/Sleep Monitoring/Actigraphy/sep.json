@@ -2,5 +2,8 @@
   "id": "sep",
   "display_name": "Sleep Episodes - Number of sleep episodes (blocks of contiguous sleep epochs)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

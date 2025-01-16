@@ -2,5 +2,8 @@
   "id": "ses1",
   "display_name": "Father's Hollingshead Index of Social Status",
   "description": "Possible range 0 to 9",
-  "type": "integer"
+  "type": "integer",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

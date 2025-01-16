@@ -4,6 +4,7 @@
   "description": "0 [very little] - 100 [very much]",
   "type": "numeric",
   "labels": [
-    "subjective_sleepiness"
+    "subjective_sleepiness",
+    "sandd_Mood_sleepiness_DeID"
   ]
 }

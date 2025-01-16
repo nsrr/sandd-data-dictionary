@@ -2,5 +2,8 @@
   "id": "rey_ir_pct",
   "display_name": "Rey IR percentile Score (From Rey Test booklet form completed by Rey scorer).",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

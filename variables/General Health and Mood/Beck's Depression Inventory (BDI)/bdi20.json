@@ -7,6 +7,7 @@
   "labels": [
     "bdi",
     "depression",
-    "bdi_20fatigue"
+    "bdi_20fatigue",
+    "sandd_BDI_Scored_DeID"
   ]
 }

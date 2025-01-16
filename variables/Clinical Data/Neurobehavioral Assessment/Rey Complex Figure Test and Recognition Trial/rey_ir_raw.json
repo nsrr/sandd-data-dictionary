@@ -2,5 +2,8 @@
   "id": "rey_ir_raw",
   "display_name": "Rey IR Raw Score (From Rey Test booklet form completed by Rey scorer)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

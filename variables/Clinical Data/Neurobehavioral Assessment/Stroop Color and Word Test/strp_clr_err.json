@@ -2,5 +2,8 @@
   "id": "strp_clr_err",
   "display_name": "Total errors on the Stroop color naming task (TEST PAGE 2- Color naming).",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

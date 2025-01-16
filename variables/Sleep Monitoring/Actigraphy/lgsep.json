@@ -3,5 +3,8 @@
   "display_name": "Longest sleep episode -Duration of longest sleep episode",
   "description": "",
   "type": "numeric",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

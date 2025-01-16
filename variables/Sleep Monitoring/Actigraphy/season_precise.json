@@ -3,5 +3,8 @@
   "display_name": "Season/time of year on this day of this session of actigraphy; based precisely on the dates defining that season in that year",
   "description": "",
   "type": "choices",
-  "domain": "season"
+  "domain": "season",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

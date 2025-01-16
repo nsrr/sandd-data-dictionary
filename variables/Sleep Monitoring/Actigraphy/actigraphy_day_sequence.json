@@ -2,5 +2,8 @@
   "id": "actigraphy_day_sequence",
   "display_name": "Variable to identify order/sequence of actigraphy days for each participant. ",
   "description": "1 is first day of recorded actigraphy, then numbers are continuous for the full time frame of their participation in the study. Variable to identify sequence in the absence of date information. Can be used to sort file in order of date of data collection in lieu of having date variable in file. NOTE: final number indicates total number of days of actigraphy data for each participant.",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

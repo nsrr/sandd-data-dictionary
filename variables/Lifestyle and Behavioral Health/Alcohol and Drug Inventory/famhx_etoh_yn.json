@@ -3,5 +3,8 @@
   "display_name": "Variable to identify presence or absence of any parent with a history of an etoh disorder [abuse or dependence].",
   "description": "",
   "type": "choices",
-  "domain": "parent"
+  "domain": "parent",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

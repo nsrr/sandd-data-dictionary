@@ -3,5 +3,8 @@
   "display_name": "How much drug per occasion drug2 - # of times used per day, on average",
   "description": "",
   "type": "choices",
-  "domain": "drug"
+  "domain": "drug",
+  "labels": [
+    "sandd_ADI_cleaned_DeID"
+  ]
 }

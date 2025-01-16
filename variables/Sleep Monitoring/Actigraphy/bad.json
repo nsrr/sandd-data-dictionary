@@ -2,5 +2,8 @@
   "id": "bad",
   "display_name": "Bad Epochs - Total epochs marked as bad",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

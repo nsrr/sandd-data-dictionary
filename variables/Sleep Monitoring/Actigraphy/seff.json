@@ -2,5 +2,8 @@
   "id": "seff",
   "display_name": "Sleep efficiency (100 * Sleep minutes/Duration)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

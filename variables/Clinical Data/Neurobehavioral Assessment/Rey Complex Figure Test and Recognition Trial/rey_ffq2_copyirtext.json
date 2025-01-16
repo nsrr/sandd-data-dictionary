@@ -2,5 +2,8 @@
   "id": "rey_ffq2_copyirtext",
   "display_name": "Verbatim text re ffq2 if any is written on form",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

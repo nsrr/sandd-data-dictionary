@@ -2,5 +2,8 @@
   "id": "fas_a",
   "display_name": "Number of items completed on Verbal Fluency Test-FAS on item A.",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

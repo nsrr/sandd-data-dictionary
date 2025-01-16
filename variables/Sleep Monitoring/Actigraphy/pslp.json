@@ -3,5 +3,8 @@
   "display_name": "Percent Sleep - Percent minutes during the interval scored as sleep (100 * Sleep/Duration)",
   "description": "",
   "type": "numeric",
-  "units": "percent (%)"
+  "units": "percent (%)",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

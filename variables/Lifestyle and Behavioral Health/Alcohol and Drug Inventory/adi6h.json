@@ -3,5 +3,8 @@
   "display_name": "Do you use any of the following drugs? -Response to Hallucinogens",
   "description": "",
   "type": "choices",
-  "domain": "yes1_no0"
+  "domain": "yes1_no0",
+  "labels": [
+    "sandd_ADI_cleaned_DeID"
+  ]
 }

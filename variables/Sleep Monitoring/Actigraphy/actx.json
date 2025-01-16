@@ -2,5 +2,8 @@
   "id": "actx",
   "display_name": "Activity index (percent of epochs with an activity score greater than 0)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

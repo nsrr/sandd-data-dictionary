@@ -3,5 +3,8 @@
   "display_name": "Midpoint - Midpoint time of interval",
   "description": "",
   "type": "time",
-  "units": "H:mm"
+  "units": "H:mm",
+  "labels": [
+    "sandd_ScoredActigraphy_withSessionSeason_DeID"
+  ]
 }

@@ -2,5 +2,8 @@
   "id": "comments_additional",
   "display_name": "comments_additional - study team comments re this row of data for this participant",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

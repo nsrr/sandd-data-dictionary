@@ -3,5 +3,8 @@
   "display_name": "Participants age at time of neuropsych test as year plus decimal",
   "description": "",
   "type": "numeric",
-  "units": "years"
+  "units": "years",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

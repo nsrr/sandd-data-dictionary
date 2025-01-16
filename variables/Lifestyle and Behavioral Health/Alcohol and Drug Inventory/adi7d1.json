@@ -3,5 +3,8 @@
   "display_name": "Name of drug1 y/n.",
   "description": "",
   "type": "choices",
-  "domain": "drug"
+  "domain": "drug",
+  "labels": [
+    "sandd_ADI_cleaned_DeID"
+  ]
 }

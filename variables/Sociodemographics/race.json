@@ -3,5 +3,8 @@
   "display_name": "Participant's race",
   "description": "As reported on SMEFH per categories employed in 2002.",
   "type": "choices",
-  "domain": "race"
+  "domain": "race",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

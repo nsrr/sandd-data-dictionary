@@ -3,5 +3,8 @@
   "display_name": "When you drink BEER, LIQUOR, or WINE, have you ever had 3 or more drinks on a given occasion?",
   "description": "",
   "type": "choices",
-  "domain": "yes_no_never"
+  "domain": "yes_no_never",
+  "labels": [
+    "sandd_ADI_cleaned_DeID"
+  ]
 }

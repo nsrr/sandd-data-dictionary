@@ -2,5 +2,8 @@
   "id": "shs_pds_score",
   "display_name": "Pubertal development scale score per original measure directions: mean of all items. Range: 1-4. All items must be present to get score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "sandd_Dems_Scores_dlmo_ETOHhx_season_pds_DeID"
+  ]
 }

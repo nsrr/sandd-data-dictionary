@@ -2,5 +2,8 @@
   "id": "rey_ffq2_copytext",
   "display_name": "description if Q2 on Feedback Form is yes",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "labels": [
+    "sandd_NeuropsychTestingData_DeID"
+  ]
 }

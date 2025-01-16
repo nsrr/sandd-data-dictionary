@@ -5,6 +5,7 @@
   "type": "numeric",
   "labels": [
     "rcmas",
-    "rcmas_score"
+    "rcmas_score",
+    "sandd_RCMAS_DeID"
   ]
 }
