@@ -130,7 +130,7 @@ harmonized_data<-merged_data2[,c("id", "session","agedec_stdate","race","female_
                   ethnicity_hispanicorlatino==0 ~ "not hispanic or latino",
                   TRUE ~ "not reported"
                 ),
-                nsrr_bmi = (weight_physexam * 0.453592) / (height_physexam * 0.0254)^2) %>% select(nsrrid, session, nsrr_age, nsrr_race, nsrr_sex, nsrr_ethnicity, nsrr_bmi)
+                nsrr_bmi = (weight_physexam * 0.453592) / (height_physexam * 0.0254)^2) %>% select(id,nsrrid, session, nsrr_age, nsrr_race, nsrr_sex, nsrr_ethnicity, nsrr_bmi)
 
 write.csv(harmonized_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/0.1.0.pre/sandd-harmonized-dataset-0.1.0.csv", row.names = FALSE, na='')
 
