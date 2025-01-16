@@ -1,4 +1,4 @@
-## 0.1.0 
+## 0.1.0 (January 16, 2025)
 
 - Created set of harmonized variables
 - Added variable and domain metadata from contributor data dictionary
