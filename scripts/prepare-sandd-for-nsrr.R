@@ -100,9 +100,9 @@ actigraphy_data <- subset(actigraphy_data, select = -c(actmode))
 names(mood_sleepy_data)[names(mood_sleepy_data) == "days_numbersincefirstsessionstart"] <- "days_numfirstsessionstart"
 merged_data2$sleepcond_dlmo <- NULL 
 
-write.csv(merged_data2, file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/0.1.0.pre/sandd-dataset-0.1.0.pre.csv", row.names = FALSE, na='')
-write.csv(mood_sleepy_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/0.1.0.pre/sandd-mood-0.1.0.pre.csv", row.names = FALSE, na='')
-write.csv(actigraphy_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/0.1.0.pre/sandd-scoredactigraphy-0.1.0.pre.csv", row.names = FALSE, na='')
+write.csv(merged_data2, file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/0.1.0/sandd-dataset-0.1.0.csv", row.names = FALSE, na='')
+write.csv(mood_sleepy_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/0.1.0/sandd-mood-0.1.0.csv", row.names = FALSE, na='')
+write.csv(actigraphy_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/0.1.0/sandd-scoredactigraphy-0.1.0.csv", row.names = FALSE, na='')
 
 
 #harmonized dataset
@@ -132,7 +132,7 @@ harmonized_data<-merged_data2[,c("id", "session","agedec_stdate","race","female_
                 ),
                 nsrr_bmi = (weight_physexam * 0.453592) / (height_physexam * 0.0254)^2) %>% select(id,nsrrid, session, nsrr_age, nsrr_race, nsrr_sex, nsrr_ethnicity, nsrr_bmi)
 
-write.csv(harmonized_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/0.1.0.pre/sandd-harmonized-dataset-0.1.0.csv", row.names = FALSE, na='')
+write.csv(harmonized_data,file = "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20240318-carskadon-sandd/nsrr-prep/_releases/0.1.0/sandd-harmonized-dataset-0.1.0.csv", row.names = FALSE, na='')
 
 
 
